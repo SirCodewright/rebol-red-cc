@@ -116,7 +116,7 @@ op de software kant.
 
 30
 00:01:46,357 --> 00:01:49,283
-We doen alles in een zeer primitieve manier
+We doen alles op een zeer primitieve manier
 
 31
 00:01:49,283 --> 00:01:51,928
@@ -140,15 +140,15 @@ Dat hoop ik tenminste. :-) ( Gelach )
 
 36
 00:02:02,541 --> 00:02:08,308
-Dus als we terug een beetje meer over het onderwerp
+Dus om weer terug te gaan naar het onderwerp
 
 37
 00:02:08,308 --> 00:02:12,563
-zijn er eigenlijk veel programmeertalen
+er zijn eigenlijk heel veel programmeertalen
 
 38
 00:02:12,563 --> 00:02:14,927
-Als je kijkt naar de lijst Wikipedia
+Kijk naar de lijst op Wikipedia van
 
 39
 00:02:14,927 --> 00:02:18,596
@@ -164,7 +164,7 @@ Dus er zijn letterlijk duizenden
 
 42
 00:02:24,802 --> 00:02:27,188
-van programmeertalen.
+programmeertalen.
 
 43
 00:02:27,188 --> 00:02:29,588
@@ -176,19 +176,19 @@ die zijn gemaakt op de Amiga.
 
 45
 00:02:32,839 --> 00:02:34,465
-De beroemde " Amiga E"
+De beroemde "Amiga E"
 
 46
 00:02:34,465 --> 00:02:37,288
-en AMOS die gemaakt door een Franse jongen...
+en AMOS dat gemaakt is door een Franse jongen...
 
 47
 00:02:37,288 --> 00:02:42,988
-een zeer helder man, wiens naam is François Lionet.
+een zeer pientere man, die François Lionet heet.
 
 48
 00:02:42,988 --> 00:02:46,500
-Deze Basic is met een DSL.
+Deze Basic heeft een DSL.
 
 49
 00:02:46,500 --> 00:02:50,240
@@ -204,11 +204,11 @@ De DSL was bedoeld voor animaties...
 
 52
 00:02:56,445 --> 00:03:00,268
-... het werd samengesteld om native code.
+... het werd gecompileerd naar native code.
 
 53
 00:03:00,268 --> 00:03:04,439
-En de hele tolk en compiler en IDE
+En de hele interpreter en compiler en IDE
 
 54
 00:03:04,439 --> 00:03:10,624
@@ -224,7 +224,7 @@ Ondanks de vele programmeertalen
 
 57
 00:03:19,448 --> 00:03:22,985
-en tools die we nog op zoek naar een nieuwer,
+en tools, zoeken we nog naar een nieuwere,
 
 58
 00:03:22,985 --> 00:03:25,197
@@ -232,15 +232,15 @@ betere oplossing.
 
 59
 00:03:25,197 --> 00:03:28,035
-De problemen waarmee we geconfronteerd worden elke dag
+De problemen waarmee we elke dag geconfronteerd worden
 
 60
 00:03:28,035 --> 00:03:31,225
-in de software wereld zijn vrij nu bekend
+in de softwarewereld zijn vrij bekend nu
 
 61
 00:03:31,225 --> 00:03:34,345
-maar we houden ze raken.
+maar we blijven ze tegenkomen.
 
 62
 00:03:34,345 --> 00:03:37,582
@@ -252,11 +252,11 @@ Nee ik bedoel niet Java, natuurlijk. ( gelach )
 
 64
 00:03:40,334 --> 00:03:42,225
-Niet na te denken over Java. : - P
+Ik denk niet aan Java. :-P
 
 65
 00:03:42,225 --> 00:03:44,769
-Trage prestaties... Zwarte dozen, die kunnen worden
+Trage prestaties... Zwarte dozen, zoals
 
 66
 00:03:44,769 --> 00:03:46,554
@@ -264,47 +264,47 @@ closed source software, bijvoorbeeld.
 
 67
 00:03:46,554 --> 00:03:49,598
-Die vaak een groot probleem wanneer het proberen
+Die vaak een groot probleem opleveren 
 
 68
 00:03:49,598 --> 00:03:53,461
-om bugs die je niet kan bereiken oplossen.
+om bugs die je niet kan bereiken op te lossen.
 
 69
 00:03:53,461 --> 00:03:57,872
-Dus in plaats van het besteden van onze tijd raken deze muren
+Dus in plaats van tijdverspilling om tegen deze muren te lopen
 
 70
 00:03:57,872 --> 00:04:00,348
-we moeten plezier hebben doen programmering
+zouden we plezier moeten hebben met programmeren
 
 71
 00:04:00,348 --> 00:04:02,665
-omdat de programmering is over het hebben van plezier.
+omdat programmeren gaat om het plezier ervan.
 
 72
 00:04:02,665 --> 00:04:05,265
-En dit is de geest die we moeten hebben wanneer
+En dit is de houding die we moeten hebben wanneer
 
 73
 00:04:05,265 --> 00:04:07,852
-worden we geconfronteerd met onze computer en werken.
+we aan onze computer zitten en werken.
 
 74
 00:04:07,852 --> 00:04:11,400
-Het is net als in die tijd waar u het programmeren
+Het is net als vroeger toen programmeren
 
 75
 00:04:11,400 --> 00:04:13,440
-is *alleen* plezier.
+*puur* plezier was.
 
 76
 00:04:13,440 --> 00:04:16,441
-Sindsdien is sinds de jaren 80
+Sindsdien zijn, sinds de jaren 80,
 
 77
 00:04:16,441 --> 00:04:19,490
-veel revoluties gebeurd.
+veel revoluties geweest.
 
 78
 00:04:19,490 --> 00:04:21,716
@@ -316,7 +316,7 @@ zeer belangrijke veranderingen in de computerwereld.
 
 80
 00:04:25,710 --> 00:04:28,281
-De eerste is het verhogen van de macht
+De eerste is het verhogen van de rekenkracht
 
 81
 00:04:28,281 --> 00:04:31,224
@@ -344,7 +344,7 @@ De markt verandert zeer snel.
 
 87
 00:04:49,987 --> 00:04:52,947
-Dus de programmeertools moeten ook aan te passen.
+Dus de programmeertools moeten ook worden aangepast.
 
 88
 00:04:52,947 --> 00:04:56,540
@@ -352,7 +352,7 @@ Ondanks deze veranderingen,
 
 89
 00:04:56,540 --> 00:04:59,593
-we zijn nog steeds met behulp van zeer oude werktuigen, in feite.
+werken we met zeer oude werktuigen, in feite.
 
 90
 00:04:59,593 --> 00:05:03,677
@@ -368,7 +368,7 @@ programmeertalen van de Tiobe index...
 
 93
 00:05:09,111 --> 00:05:12,114
-Ja, C is nog steeds de belangrijkste is
+Ja, C is nog steeds de belangrijkste
 
 94
 00:05:12,114 --> 00:05:14,672
@@ -376,15 +376,15 @@ en het is er al bijna 40 jaar.
 
 95
 00:05:14,672 --> 00:05:18,748
-Dat is een behoorlijk lange tijd in de informatica !
+Dat is een behoorlijk lange tijd in de informatica!
 
 96
 00:05:18,748 --> 00:05:22,984
-En C is absoluut niet bedoeld om het adres
+En C is absoluut niet bedoeld voor
 
 97
 00:05:22,984 --> 00:05:25,417
-de eisen voor moderne computers.
+de moderne computertaken.
 
 98
 00:05:25,417 --> 00:05:27,973
@@ -400,19 +400,19 @@ Gelukkig voor ons, sommige mensen...
 
 101
 00:05:33,205 --> 00:05:36,211
-... een aantal zeer zeldzame mensen op de hoogte waren van deze
+... een aantal zeer zeldzame mensen dit beseften
 
 102
 00:05:36,211 --> 00:05:41,981
-en in staat is het geven van een antwoord op deze kwesties.
+en in staat tot het geven van een antwoord op deze kwesties.
 
 103
 00:05:41,981 --> 00:05:45,129
-Mensen als Carl ( gebaren naar Carl Sassenrath )
+Mensen als Carl ( gebaart naar Carl Sassenrath )
 
 104
 00:05:45,129 --> 00:05:47,309
-die Rebol uitgevonden... fantastisch hulpmiddel.
+die Rebol heeft uitgevonden... fantastisch hulpmiddel.
 
 105
 00:05:47,309 --> 00:05:50,383
@@ -420,7 +420,7 @@ Waarschijnlijk een van de grootste uitvindingen
 
 106
 00:05:50,383 --> 00:05:55,080
-in de programmering wereld in de laatste 20 jaar.
+in de programmeerwereld in de laatste 20 jaar.
 
 107
 00:05:55,080 --> 00:05:57,875
@@ -432,43 +432,43 @@ goede oplossing voor veel problemen.
 
 109
 00:06:00,598 --> 00:06:01,978
-* Maar niet alle. *
+*Maar niet alle.*
 
 110
 00:06:01,978 --> 00:06:05,352
-Iets wat ik zou willen zien aan Carl...
+Iets dat ik zou willen laten zien aan Carl...
 
 111
 00:06:05,352 --> 00:06:08,556
-... misschien heeft hij het ??niet gezien ?
+... misschien heeft hij het niet gezien?
 
 112
 00:06:08,556 --> 00:06:12,917
-De wonderen Rebol het doen was, tot voor kort,
+De wonderen die Rebol deed, tot voor kort,
 
 113
 00:06:12,917 --> 00:06:17,277
-was gewoon de Rebol gemeenschap prees het
+was eenvoudig de Rebol gemeenschap prees het
 
 114
 00:06:17,277 --> 00:06:20,004
-en proberen uit te leggen aan mensen hoe Rebol
+en probeerde uit te leggen aan mensen hoe Rebol
 
 115
 00:06:20,004 --> 00:06:23,947
-was een productief instrument, en expressief.
+een productief instrument was, en expressief.
 
 116
 00:06:23,947 --> 00:06:28,282
-Maar onlangs een wetenschappelijke studie probeerde te meten
+Maar onlangs probeerde een wetenschappelijke studie te meten
 
 117
 00:06:28,282 --> 00:06:32,133
-de expressiviteit van programmeertalen.
+wat de expressiviteit van programmeertalen was.
 
 118
 00:06:32,133 --> 00:06:37,597
-Dus deden ze het. En Rebol... * verrassing * ! Is nummer 3.
+Dus deden ze het. En Rebol... *verrassing*! Is nummer 3.
 
 119
 00:06:37,597 --> 00:06:41,516
@@ -476,11 +476,11 @@ In feite : nummer 1 en nummer 2 zijn DSL's.
 
 120
 00:06:41,516 --> 00:06:44,526
-Dus raad eens wie is de eerste ? ( gelach )
+Dus raad eens wie is eigenlijk de eerste ? ( gelach )
 
 121
 00:06:44,526 --> 00:06:49,040
-Zodat enkel bevestigt iets wat we allemaal wisten
+Dat bevestigt alleen maar iets dat we allemaal al wisten
 
 122
 00:06:49,040 --> 00:06:51,141
@@ -496,7 +496,7 @@ en dat is nu bewezen. ( gelach )
 
 125
 00:06:55,935 --> 00:07:00,715
-Maar Red probeert verder te gaan dan wat Rebol geeft.
+Maar Red probeert verder te gaan dan wat Rebol doet.
 
 126
 00:07:00,715 --> 00:07:03,002
@@ -504,7 +504,7 @@ Vooral in termen van implementatie
 
 127
 00:07:03,002 --> 00:07:06,519
-niet in termen van taal semantiek of syntaxis.
+niet in termen van taal semantiek of syntax.
 
 128
 00:07:06,519 --> 00:07:10,458
@@ -512,7 +512,7 @@ Maar meer in termen van toolchain, implementaties,
 
 129
 00:07:10,458 --> 00:07:13,065
-en verspreiden.
+en verspreiding.
 
 130
 00:07:13,065 --> 00:07:16,160
@@ -524,15 +524,15 @@ Red is wat ik noem
 
 132
 00:07:17,653 --> 00:07:19,212
-een * Full- Stack Programming Language *
+een *Full-Stack Programming Language*
 
 133
 00:07:19,212 --> 00:07:22,317
-Misschien heb je gehoord over full - stack ontwikkelaars ?
+Misschien heb je gehoord over full-stack ontwikkelaars?
 
 134
 00:07:22,317 --> 00:07:25,796
-Dus dit is een full - stack programmeertaal.
+Dus dit is een full-stack programmeertaal.
 
 135
 00:07:25,796 --> 00:07:28,995
@@ -544,7 +544,7 @@ is dat het een echte algemene
 
 137
 00:07:31,188 --> 00:07:33,287
-programmering oplossing.
+programmeeroplossing is.
 
 138
 00:07:33,287 --> 00:07:35,182
@@ -552,7 +552,7 @@ Er zijn vele talen
 
 139
 00:07:35,182 --> 00:07:39,288
-dat * adverteren * als algemeen doel...
+die *adverteren* voor algemeen gebruik te zijn...
 
 140
 00:07:39,288 --> 00:07:43,358
@@ -560,19 +560,19 @@ dat * adverteren * als algemeen doel...
 
 141
 00:07:43,358 --> 00:07:47,121
-De andere grote kenmerk over Red
+Het andere grote kenmerk van Red
 
 142
 00:07:47,121 --> 00:07:49,413
-is dat het een stand - alone toolchain
+is dat het een stand-alone toolchain is
 
 143
 00:07:49,413 --> 00:07:52,050
-dus niet afhankelijk van de kwaliteit
+dus niet afhankelijk van de standaard
 
 144
 00:07:52,050 --> 00:07:56,488
-klassiek C toolchain, hebben we onze eigen een.
+klassieke C toolchain, wij hebben onze eigen.
 
 145
 00:07:56,488 --> 00:07:59,648
@@ -580,27 +580,27 @@ Een ander belangrijk aspect van Red
 
 146
 00:07:59,648 --> 00:08:01,421
-is het is over * vrijheid *.
+is het gaat over *vrijheid*.
 
 147
 00:08:01,421 --> 00:08:03,695
-Sinds het begin mijn motivatie voor Red
+Sinds het begin is mijn motivatie voor Red
 
 148
 00:08:03,695 --> 00:08:07,334
-was vrij van elke vorm van beperkingen te krijgen
+om los van elke vorm van beperking te komen
 
 149
 00:08:07,334 --> 00:08:08,995
-of enige vorm van beperkingen.
+en elke vorm van begrenzing.
 
 150
 00:08:08,995 --> 00:08:14,230
-Ik wil dat gebruikers van Red naar hetzelfde voelen.
+Ik wil dat gebruikers van Red hetzelfde voelen.
 
 151
 00:08:14,230 --> 00:08:18,165
-Dus Red is eenvoudig te gebruiken, * dankzij Rebol *...
+Dus Red is eenvoudig te gebruiken, *dankzij Rebol*...
 
 152
 00:08:18,165 --> 00:08:23,770
@@ -608,7 +608,7 @@ Dus Red is eenvoudig te gebruiken, * dankzij Rebol *...
 
 153
 00:08:23,770 --> 00:08:26,374
-We proberen om elke mogelijke behoefte te
+We proberen om in elke mogelijke behoefte te voorzien
 
 154
 00:08:26,374 --> 00:08:28,138
@@ -616,39 +616,39 @@ en alle mogelijke aspecten, zodat het
 
 155
 00:08:28,138 --> 00:08:33,154
-kan worden ingezet, geport naar elk platform die we nodig hebben.
+kan worden ingezet, geport naar elk platform dat we nodig hebben.
 
 156
 00:08:33,154 --> 00:08:35,799
-Ook iets heel belangrijks in de programmering :
+Ook iets heel belangrijks in programmeren:
 
 157
 00:08:35,799 --> 00:08:39,061
-je moet het gevoel in controle van uw gereedschap.
+je moet het gevoel van controle hebben over je gereedschap.
 
 158
 00:08:39,061 --> 00:08:42,836
-Vaak een aantal tools die krachtig kunnen worden gebruikt u
+Vaak gebruik je een aantal tools die krachtig zijn
 
 159
 00:08:42,836 --> 00:08:44,878
-maar je hoeft ze niet te controleren, omdat
+maar je kunt ze niet controleren of beheersen, omdat
 
 160
 00:08:44,878 --> 00:08:47,250
-je niet begrijpt wat er gebeurt binnen.
+je niet begrijpt wat er binnenin gebeurt.
 
 161
 00:08:47,250 --> 00:08:48,730
-Vaak omdat ze zwarte dozen.
+Vaak omdat het zwarte dozen zijn.
 
 162
 00:08:48,730 --> 00:08:52,495
-Of omdat ze zitten op een grote stapel lagen
+Of omdat ze onderdeel zijn van een grote stapel lagen
 
 163
 00:08:52,495 --> 00:08:56,225
-van software, zodat u kunt niet zomaar begrijpen
+van software, zodat je niet zomaar begrijpt
 
 164
 00:08:56,225 --> 00:08:57,921
@@ -656,51 +656,51 @@ wat er van binnen gebeurt.
 
 165
 00:08:57,921 --> 00:09:02,394
-En een belangrijk laatste wat :-)
+En een belangrijke laatste is :-)
 
 166
 00:09:02,394 --> 00:09:04,521
-is het * Fun *. Ja, we willen het plezier terug.
+is het *Fun*? Ja, we willen het plezier terug.
 
 167
 00:09:04,521 --> 00:09:08,808
-Sommige mensen die probeerden naar Red gebruiken
+Sommige mensen die Red probeerden 
 
 168
 00:09:08,808 --> 00:09:11,465
-of Red/System, na het compileren en actief
+of Red/System, na het compileren en uitvoeren 
 
 169
 00:09:11,465 --> 00:09:14,262
-hun eerste programma succesvol
+hun eerste programma 
 
 170
 00:09:14,262 --> 00:09:16,175
-kwam terug naar mij en zei :
+kwamen terug naar mij en zeiden:
 
 171
 00:09:16,175 --> 00:09:17,367
-"Het is geweldig, want het is leuk. "
+"Het is geweldig, want het is leuk."
 
 172
 00:09:17,367 --> 00:09:21,281
-" Ik probeerde het, en het werkte, en het was geweldig. "
+"Ik probeerde het, en het werkte, en het was geweldig."
 
 173
 00:09:21,281 --> 00:09:25,132
-Mensen krijgen dat gevoel - wat ik het over had
+Mensen krijgen dat gevoel - waar ik het over had
 
 174
 00:09:25,132 --> 00:09:27,620
-Dat gevoel uit de jaren 80.
+Dat gevoel uit de jaren '80.
 
 175
 00:09:27,620 --> 00:09:29,347
-Waar je het gevoel echt in control
+Waar je het gevoel had echt in control
 
 176
 00:09:29,347 --> 00:09:31,121
-van uw programmeersoftware.
+te zijn van je programmeersoftware.
 
 177
 00:09:31,121 --> 00:09:34,387
@@ -708,11 +708,11 @@ Dus ik zal proberen uit te leggen wat ik bedoel met
 
 178
 00:09:34,387 --> 00:09:36,782
-"Full - Stack Programming Language " en
+"Full-Stack Programming Language " en
 
 179
 00:09:36,782 --> 00:09:40,455
-" True General- Purpose Programming Language ".
+"True General-Purpose Programming Language ".
 
 180
 00:09:40,455 --> 00:09:42,096
@@ -728,7 +728,7 @@ voor een paar van de belangrijkste programmeertalen.
 
 183
 00:09:46,570 --> 00:09:49,393
-Zo assembler drivers
+Zo kun je zien assembler is voor drivers
 
 184
 00:09:49,393 --> 00:09:52,019
@@ -740,7 +740,7 @@ Je kunt zien dat Java echt beperkt is in zijn
 
 186
 00:09:54,895 --> 00:09:58,084
-mogelijkheid om verschillende abstractie niveaus aan te pakken.
+mogelijkheid om verschillende abstractieniveaus aan te pakken.
 
 187
 00:09:58,084 --> 00:10:00,607
@@ -748,15 +748,15 @@ Ruby is heel breed;
 
 188
 00:10:00,607 --> 00:10:02,989
-misschien is het niet naar beneden naar de OS?
+misschien gaat het niet naar beneden naar het OS?
 
 189
 00:10:02,989 --> 00:10:05,598
-Ik weet niet of de Ruby -interface
+Ik weet niet of de Ruby interface
 
 190
 00:10:05,598 --> 00:10:09,888
-voor het bellen OS API is echt goed of niet.
+voor de CALL's naar het OS API echt goed is of niet.
 
 191
 00:10:09,888 --> 00:10:13,324
@@ -772,19 +772,19 @@ Het is een soort van DSL,
 
 194
 00:10:19,540 --> 00:10:23,246
-die is bedoeld voor het schrijven van andere DSL.
+die bedoeld is voor het schrijven van andere DSL-en.
 
 195
 00:10:23,246 --> 00:10:26,522
-Dus het is die zich op de meta - DSL niveau.
+Dus het staat op meta-DSL niveau.
 
 196
 00:10:26,522 --> 00:10:30,356
-Dus waar is Red op die schaal ?
+Dus waar staat Red op die schaal?
 
 197
 00:10:30,356 --> 00:10:33,954
-Nou Red is gericht op addresing alle behoeften
+Nou Red is gericht op al deze behoeften
 
 198
 00:10:33,954 --> 00:10:37,272
@@ -792,15 +792,15 @@ van beneden naar boven.
 
 199
 00:10:37,272 --> 00:10:40,596
-Want ik wil niet te moeten vertrouwen op een ander instrument.
+Want ik wil niet hoeven te vertrouwen op een ander instrument.
 
 200
 00:10:40,596 --> 00:10:43,056
-Ik wil het Red programmeertaal
+Ik wil de Red programmeertaal
 
 201
 00:10:43,056 --> 00:10:45,913
-kunnen alle behoeften
+voor al deze behoeften
 
 202
 00:10:45,913 --> 00:10:48,272
@@ -808,15 +808,15 @@ zonder te vertrouwen op iets anders.
 
 203
 00:10:48,272 --> 00:10:51,236
-Dus je zal me vertellen dat het volstrekt onmogelijk
+Dus nu zal je me vertellen dat het volstrekt onmogelijk is
 
 204
 00:10:51,236 --> 00:10:53,307
-een taal die adressen maken
+om een taal te maken
 
 205
 00:10:53,307 --> 00:10:56,058
-Zo'n ruime opzet.
+die dat allemaal kan.
 
 206
 00:10:56,058 --> 00:10:58,201
@@ -840,23 +840,23 @@ Ze zijn met elkaar geïntegreerd
 
 211
 00:11:10,037 --> 00:11:11,702
-en samen te werken.
+en werken samen.
 
 212
 00:11:11,702 --> 00:11:15,114
-Dus Red / systeem in feite een dialect van Red.
+Dus Red/System is in feite een dialect van Red.
 
 213
 00:11:15,114 --> 00:11:17,191
-Je kan deze afzonderlijk gebruiken
+Je kan het afzonderlijk gebruiken
 
 214
 00:11:17,191 --> 00:11:20,112
-of rechtstreeks geheel ingebed in Red.
+of compleet ingebed in Red.
 
 215
 00:11:20,112 --> 00:11:25,446
-Dus laten we eens een kijkje op de platforms die we ondersteunen.
+Laten we eens een kijken naar de platforms die we ondersteunen.
 
 216
 00:11:25,446 --> 00:11:26,597
@@ -872,15 +872,15 @@ We ondersteunen ook een aantal extra
 
 219
 00:11:34,424 --> 00:11:36,693
-besturingssystemen zoals lettergreep.
+besturingssystemen zoals Syllable.
 
 220
 00:11:36,693 --> 00:11:38,829
-Wij willen steunen FreeBSD
+Wij zouden FreeBSD ook graag ondersteunen
 
 221
 00:11:38,829 --> 00:11:41,350
-maar we een aantal low- level had problemen
+maar we hadden een aantal low-level problemen
 
 222
 00:11:41,350 --> 00:11:45,053
@@ -888,19 +888,19 @@ en geen FreeBSD experts onder ons
 
 223
 00:11:45,053 --> 00:11:48,456
-om die op te lossen, dus voor nu is het een beetje vastgelopen.
+om deze op te lossen, dus voor nu is het een beetje vastgelopen.
 
 224
 00:11:48,456 --> 00:11:52,454
-Maar we kunnen waarschijnlijk Red krijgen geport
+Maar we kunnen waarschijnlijk Red geport krijgen
 
 225
 00:11:52,454 --> 00:11:54,855
-op FreeBSD snel.
+op FreeBSD.
 
 226
 00:11:54,855 --> 00:11:57,687
-Dan willen we ook pakken
+Dan willen we ook bespelen
 
 227
 00:11:57,687 --> 00:12:00,774
@@ -908,11 +908,11 @@ de embedded markt, te beginnen met Android.
 
 228
 00:12:00,774 --> 00:12:02,771
-die we al ondersteunen.
+dat we al ondersteunen.
 
 229
 00:12:02,771 --> 00:12:04,787
-Zal de volgende zijn iOS.
+En zal de volgende iOS zijn.
 
 230
 00:12:04,787 --> 00:12:07,905
@@ -920,19 +920,19 @@ En we al draaien op Raspberry Pi
 
 231
 00:12:07,905 --> 00:12:10,367
-die steeds heel populair.
+die heel populair aan het worden is.
 
 232
 00:12:10,367 --> 00:12:14,720
-Ik denk dat Bo zal enkele demonstraties doen
+Ik denk dat Bo enkele demonstraties geeft...
 
 233
 00:12:14,720 --> 00:12:17,929
-misschien morgen.
+...misschien morgen.
 
 234
 00:12:17,929 --> 00:12:22,868
-We hebben ook een experimenteel poort op Arduino
+We hebben ook een experimentele port op Arduino
 
 235
 00:12:22,868 --> 00:12:27,030
@@ -944,15 +944,15 @@ Maar het is een experiment voor nu
 
 237
 00:12:30,044 --> 00:12:32,895
-omdat andere borden komen
+omdat er andere borden komen
 
 238
 00:12:32,895 --> 00:12:36,014
-zoals 32 - bit boards of Raspberry Pi.
+zoals 32-bit boards of de Raspberry Pi.
 
 239
 00:12:36,014 --> 00:12:41,790
-Dus 8 - bits ondersteuning kan niet het ding nu te doen zijn.
+Dus 8-bits ondersteuning is niet direct het ding om nu te doen.
 
 240
 00:12:41,790 --> 00:12:45,320
@@ -960,7 +960,7 @@ We willen ook virtuele machines te ondersteunen.
 
 241
 00:12:45,320 --> 00:12:49,753
-We willen in staat zijn om verbinding te maken. NET
+We willen in staat zijn om verbinding te maken met dotNET
 
 242
 00:12:49,753 --> 00:12:53,139
@@ -980,7 +980,7 @@ We kunnen een brug hebben, houden Red zoals het nu is
 
 246
 00:13:00,940 --> 00:13:06,438
-en het overbruggen van deze virtuele machines.
+en overbruggen met deze virtuele machines.
 
 247
 00:13:06,438 --> 00:13:08,746
@@ -992,7 +992,7 @@ voor Red en Red/System
 
 249
 00:13:11,146 --> 00:13:13,710
-kunnen direct compileren de bytecode
+en direct compileren naar bytecode
 
 250
 00:13:13,710 --> 00:13:15,817
@@ -1464,7 +1464,7 @@ Dus in Rebol, het niet veel betekenis hebben
 
 367
 00:20:17,048 --> 00:20:25,102
-want het is een tolk, en heeft het geen waarde.
+want het is een interpreter, en heeft het geen waarde.
 
 368
 00:20:25,102 --> 00:20:27,874
@@ -1780,7 +1780,7 @@ En implementeren van een DSL-of een dialect
 
 446
 00:25:07,113 --> 00:25:11,151
-is de implementatie van een tolk of een compiler.
+is de implementatie van een interpreter of een compiler.
 
 447
 00:25:11,151 --> 00:25:17,524
@@ -1852,7 +1852,7 @@ En je zult net gebeurtenissen implementeren
 
 464
 00:26:11,544 --> 00:26:17,351
-om uw DSL maken als tolk of compiler.
+om uw DSL maken als interpreter of compiler.
 
 465
 00:26:17,351 --> 00:26:26,170
@@ -1936,7 +1936,7 @@ Dat statische compiler code genereren
 
 485
 00:27:44,538 --> 00:27:46,584
-met een tolk binnen, en morgen
+met een interpreter binnen, en morgen
 
 486
 00:27:46,584 --> 00:27:51,606
@@ -1956,7 +1956,7 @@ Dus bijvoorbeeld, de gecompileerde code
 
 490
 00:28:05,191 --> 00:28:08,428
-kan de interne tolk noemen
+kan de interne interpreter noemen
 
 491
 00:28:08,428 --> 00:28:12,551
@@ -2144,11 +2144,11 @@ bijvoorbeeld alle datatypes,
 
 537
 00:31:08,649 --> 00:31:12,104
-alle inboorlingen, de mezzanine code,
+alle natives (systeem-eigen functies), de mezzanine code,
 
 538
 00:31:12,104 --> 00:31:16,600
-de tolk, de bruggen - net als de Java een
+de interpreter, de bruggen - net als de Java een
 
 539
 00:31:16,600 --> 00:31:19,025
@@ -3136,19 +3136,19 @@ en het succes van het project.
 
 785
 00:46:22,075 --> 00:46:27,231
-Maar ik opraken van geld vrij snel. :-)
+Maar het geld raakt bij mij vrij snel op. :-)
 
 786
 00:46:27,231 --> 00:46:30,128
-Sinds een jaar geleden, ik woon alleen op donaties
+Sinds een jaar leef ik alleen van donaties
 
 787
 00:46:30,128 --> 00:46:33,280
-dat gebruikers en volgers sturen naar mij.
+die gebruikers en volgers aan mij sturen.
 
 788
 00:46:33,280 --> 00:46:35,522
-Dus ik wil hen bedanken veel
+Dus ik wil hen bijzonder bedanken
 
 789
 00:46:35,522 --> 00:46:39,136
@@ -3156,11 +3156,11 @@ omdat ik hier niet zou zijn zonder hen
 
 790
 00:46:39,136 --> 00:46:41,448
-Red en zou niet in dit stadium
+Red en zou niet in dit stadium zijn
 
 791
 00:46:41,448 --> 00:46:42,987
-of waarschijnlijk niet zou worden bestaande
+of mogelijk geheel niet bestaan
 
 792
 00:46:42,987 --> 00:46:45,865
@@ -3172,7 +3172,7 @@ Dus heel erg bedankt, en we moeten blijven
 
 794
 00:46:49,165 --> 00:46:52,832
-om hem te ondersteunen om het een realiteit.
+ondersteunen om het te realiseren.
 
 795
 00:46:52,832 --> 00:46:55,053
