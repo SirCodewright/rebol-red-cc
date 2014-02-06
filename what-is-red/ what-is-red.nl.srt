@@ -4,7 +4,7 @@ Onze volgende spreker is Nenad Rakocevic
 
 2
 00:00:14,410 --> 00:00:17,039
-wie zal ons vertellen " Wat is Red "
+die ons vertelt " Wat is Red "
 
 3
 00:00:17,039 --> 00:00:22,496
@@ -12,19 +12,19 @@ wie zal ons vertellen " Wat is Red "
 
 4
 00:00:22,886 --> 00:00:27,767
-Thanks, Greg. En dank aan alle mensen
+Dank je, Greg. En dank aan alle mensen
 
 5
 00:00:27,767 --> 00:00:31,908
-dat gedoneerd om de kosten te betalen voor mijn reis
+die doneerden voor mijn reiskosten
 
 6
 00:00:31,908 --> 00:00:33,728
-dus ik kon komen.
+zodat ik kon komen.
 
 7
 00:00:33,728 --> 00:00:36,932
-Ik heb veel van Red presentaties
+Ik geef veel Red presentaties
 
 8
 00:00:36,932 --> 00:00:43,013
@@ -32,27 +32,27 @@ maar nieuwkomers in Red komen nog steeds naar mij
 
 9
 00:00:43,013 --> 00:00:45,517
-met deze eenvoudige vraag :
+met deze eenvoudige vraag:
 
 10
 00:00:45,517 --> 00:00:47,400
-gewoon " Wat is Red "
+ " Wat is Red? "
 
 11
 00:00:47,400 --> 00:00:50,166
-omdat het project heeft vele aspecten
+Omdat het project zo veel aspecten heeft
 
 12
 00:00:50,166 --> 00:00:51,741
-en ik kan begrijpen dat.
+en ik snap dat wel.
 
 13
 00:00:51,741 --> 00:00:54,042
-Dus ik zal proberen in deze presentatie om u
+Dus ik zal proberen in deze presentatie om
 
 14
 00:00:54,042 --> 00:00:58,673
-een goed beeld van elk deel van het project.
+een goed beeld te geven van elk deel van het project.
 
 15
 00:00:58,673 --> 00:01:02,522
@@ -60,7 +60,7 @@ Dus laten we beginnen met een overzicht van het probleem.
 
 16
 00:01:02,522 --> 00:01:06,517
-Het is niet een foto van mijn hersencellen.
+Dit is niet een foto van mijn hersencellen.
 
 17
 00:01:06,517 --> 00:01:10,566
@@ -92,7 +92,7 @@ want ik studeerde astrofysica
 
 24
 00:01:26,011 --> 00:01:30,570
-en ben ik overgestapt op de universiteit om Informatica.
+later ben ik overgestapt op de studierichting Informatica.
 
 25
 00:01:30,570 --> 00:01:34,589
@@ -100,7 +100,7 @@ Mijn beeld van de computerwereld is dat
 
 26
 00:01:34,589 --> 00:01:38,792
-zelfs vandaag de dag zijn we nog steeds met behulp van enkele primitieve
+zelfs vandaag de dag gebruiken we slechts enkele primitieve
 
 27
 00:01:38,792 --> 00:01:41,018
@@ -116,15 +116,15 @@ op de software kant.
 
 30
 00:01:46,357 --> 00:01:49,283
-We zijn nog steeds doen in een zeer primitieve manier
+We doen alles in een zeer primitieve manier
 
 31
 00:01:49,283 --> 00:01:51,928
-want we houden het opnieuw uitvinden van de wielen
+want we vinden telkens opnieuw het wiel uit
 
 32
 00:01:51,928 --> 00:01:54,513
-en voortdurend aan het doen zijn dezelfde fouten
+en maken constant dezelfde fouten
 
 33
 00:01:54,513 --> 00:01:56,041
