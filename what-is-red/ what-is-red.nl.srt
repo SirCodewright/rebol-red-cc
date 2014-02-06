@@ -1256,7 +1256,7 @@ in derde partij toolchain talen / applicaties.
 
 315
 00:17:04,962 --> 00:17:09,242
-En gaan we ook de kernel-niveau
+En gaan we ook omlaag naar het kernel-niveau
 
 316
 00:17:09,242 --> 00:17:14,305
@@ -1280,19 +1280,19 @@ Windows-kernel driver ondersteuning, al aan het werk.
 
 321
 00:17:27,504 --> 00:17:31,980
-Als er kernel driver ontwikkelaars hier
+Als er kernel driver ontwikkelaars hier zijn
 
 322
 00:17:31,980 --> 00:17:34,213
-kunt u veel plezier met het. : - P
+je kunt hier dan veel plezier aan beleven! :-P
 
 323
 00:17:34,213 --> 00:17:37,458
-Laatste : iets dat niet bestaat
+Laatste: iets dat niet bestaat
 
 324
 00:17:37,458 --> 00:17:40,247
-voor zover ik weet, in de klassieke C toolchain :
+voor zover ik weet, in de klassieke C toolchain:
 
 325
 00:17:40,247 --> 00:17:42,530
@@ -1300,7 +1300,7 @@ we zullen een verpakker laag hebben
 
 326
 00:17:42,530 --> 00:17:46,044
-die nog niet is geïmplementeerd, maar zal binnenkort.
+die nog niet is geïmplementeerd, maar zal binnenkort komen.
 
 327
 00:17:46,044 --> 00:17:51,589
@@ -1308,7 +1308,7 @@ We beginnen met de Android APK backend.
 
 328
 00:17:51,589 --> 00:17:54,697
-Dus het punt van deze laag
+Dus het doel van deze laag
 
 329
 00:17:54,697 --> 00:17:58,850
@@ -1316,11 +1316,11 @@ is gewoon om meerdere bestanden te nemen en verpakken
 
 330
 00:17:58,850 --> 00:18:03,445
-en formatteert ze als het doel platform verwacht.
+en formatteert zoals het doelplatform verwacht.
 
 331
 00:18:03,445 --> 00:18:06,426
-Dus we zullen steunen Android, we zullen iOS ondersteunen.
+Dus we zullen Android ondersteunen, we zullen iOS ondersteunen.
 
 332
 00:18:06,426 --> 00:18:08,997
@@ -1332,11 +1332,11 @@ voor het verpakken van webapplicaties.
 
 334
 00:18:13,409 --> 00:18:17,371
-Dus als Java doet voor de. WAR -formaat
+Net als Java doet voor het .WAR-formaat
 
 335
 00:18:17,371 --> 00:18:20,196
-die zeer interessant capaciteiten heeft
+die zeer interessante capaciteiten heeft
 
 336
 00:18:20,196 --> 00:18:23,489
@@ -1344,15 +1344,15 @@ zoals de vereenvoudiging van de implementatie van webtoepassingen
 
 337
 00:18:23,489 --> 00:18:25,276
-en de mogelijkheid om versie hen
+en de mogelijkheid voor versies
 
 338
 00:18:25,276 --> 00:18:27,050
-of terugdraaien inzet
+of rollback inzet
 
 339
 00:18:27,050 --> 00:18:29,342
-die grote dingen te hebben zijn.
+dat zijn prachtige dingen om te hebben.
 
 340
 00:18:29,342 --> 00:18:31,027
@@ -1364,31 +1364,31 @@ is dat momenteel de toolchain
 
 342
 00:18:32,544 --> 00:18:36,774
-wordt bootstrapped in Rebol 2.
+is bootstrapped in Rebol 2.
 
 343
 00:18:36,774 --> 00:18:40,686
-We zijn al actief op dat voor twee jaar.
+Dat werkt al twee jaar zo.
 
 344
 00:18:40,686 --> 00:18:46,907
-Maar de uiteindelijke Red zal een JIT- compiler.
+Maar de uiteindelijke Red zal een JIT compiler hebben.
 
 345
 00:18:46,907 --> 00:18:50,717
-Om een ??JIT-compiler hebben we moeten gaan self-hosted.
+Om een JIT-compiler te hebben we moeten gaan self-hosted.
 
 346
 00:18:50,717 --> 00:18:54,347
-Dus moeten we hebben Red geschreven in Red.
+Dus moet Red geschreven worden in Red.
 
 347
 00:18:54,347 --> 00:18:58,587
-Dat is de enige manier om een ??goede JIT-compiler te krijgen.
+Dat is de enige manier om een goede JIT-compiler te krijgen.
 
 348
 00:18:58,587 --> 00:19:03,543
-Dus we zullen waarschijnlijk werken op dat volgend jaar.
+We zullen waarschijnlijk volgend jaar daaraan werken.
 
 349
 00:19:03,543 --> 00:19:07,550
@@ -1396,7 +1396,7 @@ Ik heb een paar dia's over de Red taal zelf.
 
 350
 00:19:07,550 --> 00:19:10,796
-Maar ik zal niet teveel op details in te gaan
+Maar ik zal niet teveel op details in gaan
 
 351
 00:19:10,796 --> 00:19:13,394
