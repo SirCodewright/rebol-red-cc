@@ -1620,7 +1620,7 @@ Maar op dit moment is het niet geïmplementeerd
 
 406
 00:23:00,108 --> 00:23:04,207
-dus ik zal niet in details gaan over.
+dus ik zal niet in details treden.
 
 407
 00:23:04,207 --> 00:23:09,102
@@ -1636,7 +1636,7 @@ dus je kunt meerdere threads van code uit te voeren
 
 410
 00:23:15,331 --> 00:23:18,367
-parallel gebruik van andere meerdere cores.
+het parallel gebruik van andere meerdere cores.
 
 411
 00:23:18,367 --> 00:23:21,891
@@ -1648,23 +1648,23 @@ Maar er zijn andere abstracties
 
 413
 00:23:26,693 --> 00:23:31,042
-dat sinds het begin van het Red project
+die sinds het begin van het Red project
 
 414
 00:23:31,042 --> 00:23:34,926
-krijgen veel tractie. Als Go routines,
+veel aan populariteit winnen. Als daar zijn Go routines,
 
 415
 00:23:34,926 --> 00:23:38,981
-die steeds een groot pluspunt
+die reeds een groot pluspunt
 
 416
 00:23:38,981 --> 00:23:40,645
-voor de Go taal.
+voor de Go taal vormen.
 
 417
 00:23:40,645 --> 00:23:43,082
-Dus dat is iets wat we moeten overwegen
+Dus dat is iets dat we moeten overwegen
 
 418
 00:23:43,082 --> 00:23:45,725
@@ -1672,7 +1672,7 @@ ook voor Red, misschien...
 
 419
 00:23:45,725 --> 00:23:48,651
-als aanvulling of als vervanging voor acteurs
+als aanvulling of als vervanging voor actors
 
 420
 00:23:48,651 --> 00:23:50,974
@@ -1680,63 +1680,63 @@ en andere vormen van abstracties.
 
 421
 00:23:50,974 --> 00:23:54,765
-Dus als we bij het ??punt van de uitvoering
+Dus als we op het punt van implementatie staan van
 
 422
 00:23:54,765 --> 00:23:57,311
-de concurrency steun die we nodig hebben om te herzien
+de concurrency steun, moeten we 
 
 423
 00:23:57,311 --> 00:23:59,900
-alle ontwerp keuzes en zien
+alle ontwerp keuzes heroverwegen en zien
 
 424
 00:23:59,900 --> 00:24:03,665
-als we ze te updaten door het kopiëren
+of we ze updaten door het kopiëren
 
 425
 00:24:03,665 --> 00:24:06,840
-enkele andere sucessful strategieën.
+enkele andere succesvolle strategieën.
 
 426
 00:24:06,840 --> 00:24:09,047
-We willen ook een zekere mate van hebben
+We willen ook een soort
 
 427
 00:24:09,047 --> 00:24:13,712
-gegevens parallellisme behulp van SIMD
+gegevens parallellisme hebben met behulp van ofwel SIMD
 
 428
 00:24:13,712 --> 00:24:16,582
-of multicore processing.
+ofwel multicore processing.
 
 429
 00:24:16,582 --> 00:24:19,851
-Dus eigenlijk die gebruik zullen maken van de mogelijkheid
+Dus eigenlijk gebruikt dat de mogelijkheid
 
 430
 00:24:19,851 --> 00:24:25,917
-om de verwerking van Red reeks in parallel.
+om de verwerking van Red reeks in parallel uit te voeren.
 
 431
 00:24:25,917 --> 00:24:30,758
-We willen ook graag iets pakken
+We willen ook graag iets aanpakken
 
 432
 00:24:30,758 --> 00:24:33,476
-dat Rebol momenteel niet echt aan te pakken
+dat Rebol momenteel niet echt aanpakt
 
 433
 00:24:33,476 --> 00:24:36,231
-dat is : hoe maak je een dialect te maken?
+En dat is : hoe maak je een dialect?
 
 434
 00:24:36,231 --> 00:24:38,956
-Of hoe maak je een DSL te maken?
+Of hoe maak je een DSL?
 
 435
 00:24:38,956 --> 00:24:41,438
-Rebol is geweldig voor dat -
+Rebol is geweldig daarvoor-
 
 436
 00:24:41,438 --> 00:24:44,368
@@ -1744,15 +1744,15 @@ het is waarschijnlijk een van de beste tools om dat te doen
 
 437
 00:24:44,368 --> 00:24:45,658
-omdat het te ontleden en omdat
+omdat het PARSE kent en omdat
 
 438
 00:24:45,658 --> 00:24:48,084
-het heeft een aantal interessante eigenschappen
+het een aantal interessante eigenschappen heeft
 
 439
 00:24:48,084 --> 00:24:50,101
-dat maakt het een goede keuze voor dat.
+en dat maakt het een goede keuze.
 
 440
 00:24:50,101 --> 00:24:54,911
@@ -1760,19 +1760,19 @@ Hoe dan ook het bouwen van een DSL of het bouwen van een dialect
 
 441
 00:24:54,911 --> 00:24:57,186
-is niet iets wat gemakkelijk.
+is niet iets gemakkelijks.
 
 442
 00:24:57,186 --> 00:24:59,774
-Omdat je nodig hebt om het eerste ontwerp.
+Omdat je het eerst moet ontwerpen.
 
 443
 00:24:59,774 --> 00:25:01,425
-Dat is al een hoop werk.
+Dat alleen is al een hoop werk.
 
 444
 00:25:01,425 --> 00:25:03,427
-En dan moet je om het te implementeren.
+En dan moet je het nog implementeren.
 
 445
 00:25:03,427 --> 00:25:07,113
@@ -1784,11 +1784,11 @@ is de implementatie van een interpreter of een compiler.
 
 447
 00:25:11,151 --> 00:25:17,524
-Voor dat je bijna alleen met de code.
+Dat moet je bijna alleen met de code doen.
 
 448
 00:25:17,524 --> 00:25:20,462
-Dus je hoeft niet echt een kader
+Dus je hebt niet echt een kader
 
 449
 00:25:20,462 --> 00:25:22,134
@@ -1812,11 +1812,11 @@ tot een soort meta - DSL maken
 
 454
 00:25:32,431 --> 00:25:38,218
-dat zal u toelaten om veel productiever zijn
+dat zal je helpen om veel productiever zijn
 
 455
 00:25:38,218 --> 00:25:40,920
-en geven u een kader
+en geeft je een kader/framework
 
 456
 00:25:40,920 --> 00:25:44,260
@@ -1832,7 +1832,7 @@ een hoger niveau versie van PARSE.
 
 459
 00:25:50,105 --> 00:25:52,557
-U kunt denken, bijvoorbeeld,
+Je kunt je dit voorstellen, bijvoorbeeld,
 
 460
 00:25:52,557 --> 00:25:59,457
@@ -1840,11 +1840,11 @@ als het hebben van PARSE met een gebeurtenis lus
 
 461
 00:25:59,457 --> 00:26:03,732
-en het evenement lus zal worden verborgen.
+en de evenement lus zal worden verborgen.
 
 462
 00:26:03,732 --> 00:26:07,914
-Iets als Visual Basic doet.
+Iets dat Visual Basic doet.
 
 463
 00:26:07,914 --> 00:26:11,544
@@ -1852,15 +1852,15 @@ En je zult net gebeurtenissen implementeren
 
 464
 00:26:11,544 --> 00:26:17,351
-om uw DSL maken als interpreter of compiler.
+om je DSL maken als interpreter of compiler.
 
 465
 00:26:17,351 --> 00:26:26,170
-Dus wat doet het Red compiler doen?
+Dus wat doet de Red compiler?
 
 466
 00:26:26,170 --> 00:26:30,786
-De Red compiler zet Red code
+De Red compiler zet Red code om
 
 467
 00:26:30,786 --> 00:26:34,944
@@ -1868,11 +1868,11 @@ in Red/System dat is de lagere laag.
 
 468
 00:26:34,944 --> 00:26:40,093
-Ik wilde alleen maar om te laten zien hoe het eruit ziet.
+Ik wilde even laten zien hoe het eruit ziet.
 
 469
 00:26:40,093 --> 00:26:45,535
-Dus als we een zeer eenvoudige Red meningsuiting
+We beginnen met een zeer eenvoudige Red expressie
 
 470
 00:26:45,535 --> 00:26:48,493
@@ -1884,7 +1884,7 @@ en maakt gebruik van een stapel abstractie om de argumenten te plaatsen
 
 472
 00:26:53,884 --> 00:26:58,480
-In feite gebruikt twee stapels : een voor oproepen
+In feite gebruikt het twee stapels : een voor oproepen
 
 473
 00:26:58,480 --> 00:27:01,819
@@ -1892,11 +1892,11 @@ en een voor argumenten.
 
 474
 00:27:01,819 --> 00:27:05,361
-En dan de zender zal Red/System code produceren
+En dan zal de emitter Red/System code produceren
 
 475
 00:27:05,361 --> 00:27:08,363
-op basis van dat.
+op basis daarvan.
 
 476
 00:27:08,363 --> 00:27:10,782
