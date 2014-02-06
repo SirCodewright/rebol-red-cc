@@ -1252,11 +1252,11 @@ en om mensen in staat te stellen Red gebruiken
 
 314
 00:17:02,448 --> 00:17:04,962
-in derde partij toolchain talen / applicaties.
+via derde partij toolchain talen / applicaties.
 
 315
 00:17:04,962 --> 00:17:09,242
-En gaan we ook omlaag naar het kernel-niveau
+En we gaan ook omlaag naar het kernel-niveau
 
 316
 00:17:09,242 --> 00:17:14,305
@@ -1264,11 +1264,11 @@ en wij zullen ondersteuning bieden voor het bouwen van
 
 317
 00:17:14,305 --> 00:17:19,234
-kernel drivers, of zelfs volledige besturingssystemen
+kerneldrivers, of zelfs volledige besturingssystemen
 
 318
 00:17:19,234 --> 00:17:21,787
-rechtstreeks van Red.
+rechtstreeks met Red.
 
 319
 00:17:21,787 --> 00:17:24,199
@@ -1280,11 +1280,11 @@ Windows-kernel driver ondersteuning, al aan het werk.
 
 321
 00:17:27,504 --> 00:17:31,980
-Als er kernel driver ontwikkelaars hier zijn
+Als er kerneldriver ontwikkelaars hier zijn...
 
 322
 00:17:31,980 --> 00:17:34,213
-je kunt hier dan veel plezier aan beleven! :-P
+je kunt hier veel plezier aan beleven! :-P
 
 323
 00:17:34,213 --> 00:17:37,458
@@ -1296,7 +1296,7 @@ voor zover ik weet, in de klassieke C toolchain:
 
 325
 00:17:40,247 --> 00:17:42,530
-we zullen een verpakker laag hebben
+we zullen een verpakker-laag hebben
 
 326
 00:17:42,530 --> 00:17:46,044
@@ -1416,7 +1416,7 @@ Je hebt een aantal van de belangrijkste kenmerken van Rebol
 
 355
 00:19:26,585 --> 00:19:31,588
-zoals definities scoping en dynamische binding.
+zoals definitie scoping en dynamische binding.
 
 356
 00:19:31,588 --> 00:19:37,178
@@ -1436,11 +1436,11 @@ van Gabriele ( Santilli ) en ik vind het heel fijn
 
 360
 00:19:46,673 --> 00:19:50,013
-want het drukt echt goed dit vermogen
+want het drukt echt goed dit vermogen uit
 
 361
 00:19:50,013 --> 00:19:53,878
-niet door een specifieke paradigma gebonden.
+dat 't niet door een specifiek paradigma gebonden is.
 
 362
 00:19:55,318 --> 00:19:59,298
@@ -1448,19 +1448,19 @@ Een verschil tussen de Red en Rebol
 
 363
 00:19:59,298 --> 00:20:05,376
-is dat in Red je kunt soort lokale variabelen optioneel
+is dat je in Red optioneel lokale variabelen kunt typeren
 
 364
 00:20:05,376 --> 00:20:09,756
-en je kunt ook de return waarde
+en je kunt ook de return waarde 
 
 365
 00:20:09,756 --> 00:20:12,147
-functies.
+van functies een type toekennen.
 
 366
 00:20:12,147 --> 00:20:17,048
-Dus in Rebol, het niet veel betekenis hebben
+Dus in Rebol, heeft het niet veel betekenis
 
 367
 00:20:17,048 --> 00:20:25,102
@@ -1468,15 +1468,15 @@ want het is een interpreter, en heeft het geen waarde.
 
 368
 00:20:25,102 --> 00:20:27,874
-Maar voor een compiler, het heeft grote waarde.
+Maar voor een compiler, heeft het grote waarde.
 
 369
 00:20:27,874 --> 00:20:33,604
-Omdat annoteren die soorten van de functie
+Omdat annoteren van die typen in de functie
 
 370
 00:20:33,604 --> 00:20:37,791
-kan de compiler genereren
+de compiler in staat stelt om
 
 371
 00:20:37,791 --> 00:20:43,616
@@ -1484,23 +1484,23 @@ veel meer gespecialiseerde, snellere en efficiënte code
 
 372
 00:20:43,616 --> 00:20:46,818
-dan zonder de annotaties.
+dan zonder de annotaties te genereren.
 
 373
 00:20:47,728 --> 00:20:53,186
-Red is "eventueel getypt ". Dus je kunt typen of niet.
+Red is "eventueel getypeerd". Dus je kunt typen aangeven of niet.
 
 374
 00:20:53,186 --> 00:20:56,989
-Het hangt af van uw behoeften, of de manier waarop u het programma.
+Het hangt af van je behoeften, of de manier waarop je het programmeert.
 
 375
 00:20:56,989 --> 00:20:59,333
-Dus je kunt het doen in de Rebol manier
+Dus je kunt het doen op de Rebol manier
 
 376
 00:20:59,333 --> 00:21:01,619
-die zeer flexibel.
+en die is zeer flexibel.
 
 377
 00:21:01,619 --> 00:21:06,168
@@ -1512,51 +1512,51 @@ Of je kunt het op de statische manier
 
 379
 00:21:08,549 --> 00:21:10,581
-waar je alles typt
+waar je alle typen aangeeft
 
 380
 00:21:10,581 --> 00:21:13,702
-en de compiler in staat om meer soort controle te doen zal zijn
+en de compiler is in staat om meer soort controles te doen
 
 381
 00:21:13,702 --> 00:21:16,969
-zodat u een aantal waarschuwingen of enkele fouten krijgen
+zodat je een aantal waarschuwingen of enkele fouten krijgt
 
 382
 00:21:16,969 --> 00:21:21,230
-tijdens het compileren in plaats van om ze op run-time.
+tijdens het compileren in plaats van op run-time.
 
 383
 00:21:21,230 --> 00:21:28,353
-Ook als u geen gebruik maakt van de typeannotaties
+Ook als je geen gebruik maakt van de typeannotaties
 
 384
 00:21:28,353 --> 00:21:31,687
-de compiler zal kunnen soms
+zal de compiler soms
 
 385
 00:21:31,687 --> 00:21:34,141
-een soort gevolgtrekking doen.
+een soort gevolgtrekking maken.
 
 386
 00:21:34,141 --> 00:21:36,654
-Zo kunnen de types voor je raden.
+Zo kan hij de types voor je raden.
 
 387
 00:21:36,654 --> 00:21:41,093
-Maar als Red, zoals Rebol, is een zeer dynamische taal
+Maar Red, zoals Rebol, is een zeer dynamische taal
 
 388
 00:21:41,093 --> 00:21:48,734
-de mate waarin de relatiemotor
+de mate waarin het relatiealgoritme
 
 389
 00:21:48,734 --> 00:21:53,581
-kunnen deze soorten raden is vrij beperkt.
+deze soorten kan raden is vrij beperkt.
 
 390
 00:21:53,581 --> 00:21:56,756
-Dus zal het een beetje hulp een grote, maar niet.
+Dus zal het een beetje hulp bieden maar niet al te veel.
 
 391
 00:21:56,756 --> 00:22:01,167
@@ -1564,7 +1564,7 @@ We hebben natuurlijk ondersteuning voor Unicode.
 
 392
 00:22:01,167 --> 00:22:04,623
-Red broncode is UTF - 8.
+Red broncode is UTF-8.
 
 393
 00:22:04,623 --> 00:22:09,567
@@ -1572,11 +1572,11 @@ We zullen zorgen voor een aantal externe codecs voor andere coderingen.
 
 394
 00:22:09,567 --> 00:22:16,728
-Intern, in principe, Red bewaart en beheert
+Intern, in principe, bewaart en beheert Red 
 
 395
 00:22:16,728 --> 00:22:20,036
-Unicode-reeksen als Python doet
+Unicode-reeksen net als Python doet
 
 396
 00:22:20,036 --> 00:22:22,719
@@ -1588,31 +1588,31 @@ Dus de interne opslag is vaste grootte.
 
 398
 00:22:29,671 --> 00:22:35,382
-Maar het kan nemen van 1 byte tot maximaal 4 bytes
+Maar het kan van 1 byte tot maximaal 4 bytes
 
 399
 00:22:35,382 --> 00:22:37,921
-per codepoint.
+per codepoint innemen.
 
 400
 00:22:37,921 --> 00:22:40,144
-En het systeem zal automatisch aanpassen
+En het systeem zal de grootte automatisch aanpassen
 
 401
 00:22:40,144 --> 00:22:43,224
-en pas de grootte volgens de ingang
+aan de invoer 
 
 402
 00:22:43,224 --> 00:22:48,908
-en de wijzigingen die u maakt op de snaar.
+en de wijzigingen die je maakt op de string.
 
 403
 00:22:48,908 --> 00:22:54,977
-Een ander deel dat is heel belangrijk in Red
+Een ander deel dat heel belangrijk is in Red
 
 404
 00:22:54,977 --> 00:22:57,640
-is het concurrency -ondersteuning.
+is concurrency-ondersteuning.
 
 405
 00:22:57,640 --> 00:23:00,108
