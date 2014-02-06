@@ -1404,15 +1404,15 @@ omdat het te veel tijd zal vergen.
 
 352
 00:19:13,394 --> 00:19:18,018
-Het eerste ding om te begrijpen over Red taal
+Het eerste ding om te begrijpen over de taal Red
 
 353
 00:19:18,018 --> 00:19:21,098
-is dat het heel dicht bij Rebol.
+is dat het heel dicht bij Rebol blijft.
 
 354
 00:19:21,098 --> 00:19:26,585
-Je hebt een aantal van de belangrijkste kenmerken Rebol
+Je hebt een aantal van de belangrijkste kenmerken van Rebol
 
 355
 00:19:26,585 --> 00:19:31,588
@@ -1424,11 +1424,11 @@ Je hebt ook de mogelijkheid om te programmeren in Red
 
 357
 00:19:37,178 --> 00:19:40,106
-met behulp van welke paradigma je wilt.
+met behulp van welk paradigma je wilt.
 
 358
 00:19:40,106 --> 00:19:43,031
-Dus * " paradigma - neutraal " * is een uitdrukking
+Dit * "paradigma-neutraal" * is een uitdrukking
 
 359
 00:19:43,031 --> 00:19:46,673
