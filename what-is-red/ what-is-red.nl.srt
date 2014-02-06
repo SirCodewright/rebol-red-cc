@@ -1004,7 +1004,7 @@ Dus hebben we die twee opties.
 
 252
 00:13:17,905 --> 00:13:21,645
-We zijn begonnen met het maken van enkele bruggen aan de JVM.
+We zijn begonnen met het maken van enkele bruggen naar de JVM.
 
 253
 00:13:21,645 --> 00:13:26,405
@@ -1012,15 +1012,15 @@ We zullen proberen om elke keer te kiezen
 
 254
 00:13:26,405 --> 00:13:30,067
-de juiste oplossing - de beste voor de job.
+voor de juiste oplossing - de beste voor de job.
 
 255
 00:13:30,067 --> 00:13:33,188
-Dus nu zijn we overbruggen met de JVM.
+Dus nu hebben we overbrugging met de JVM.
 
 256
 00:13:33,188 --> 00:13:37,997
-Maar we zullen waarschijnlijk compileren voor JavaScript direct.
+Maar we zullen waarschijnlijk direct compileren naar JavaScript.
 
 257
 00:13:37,997 --> 00:13:41,551
@@ -1036,7 +1036,7 @@ Ik verwacht dat Red en Red/System
 
 260
 00:13:47,584 --> 00:13:50,755
-om heel snel lopen op die.
+heel snel daarop zullen zijn.
 
 261
 00:13:50,755 --> 00:13:53,753
@@ -1044,27 +1044,27 @@ Meer praktisch, gewoon een beeld van hoe het werkt
 
 262
 00:13:53,753 --> 00:13:57,242
-Dus je hebt Red : een binair.
+Dus je hebt Red: een binair bestand.
 
 263
 00:13:57,242 --> 00:14:01,118
-U downloadt en krijg al deze functies.
+Dat downloadt je en je krijgt al deze functies.
 
 264
 00:14:01,118 --> 00:14:04,756
-U kunt een Red script direct uit te voeren uit het geheugen.
+Je kunt een Red script direct vanuit uit het geheugen draaien.
 
 265
 00:14:04,756 --> 00:14:08,124
-U kunt compileren naar een uitvoerbaar.
+Je kunt compileren naar een executable.
 
 266
 00:14:08,124 --> 00:14:12,805
-U kunt cross- compileren...
+U kunt cross-compileren...
 
 267
 00:14:12,805 --> 00:14:15,324
-we terug naar die functie te krijgen.
+Daar zal ik later op terugkomen.
 
 268
 00:14:15,324 --> 00:14:19,071
@@ -1072,15 +1072,15 @@ U kunt Red/System scripts ook direct compileren,
 
 269
 00:14:19,071 --> 00:14:22,291
-als je niet wilt dat de Red layer gebruiken
+als je geen Red laag wilt gebruiken
 
 270
 00:14:22,291 --> 00:14:26,063
-maar je wilt een low-level applicatie code.
+maar je wilt een low-level applicatie maken.
 
 271
 00:14:26,063 --> 00:14:29,955
-En u kunt ook nu gedeelde bibliotheken te compileren
+En je kunt ook nu gedeelde bibliotheken compileren
 
 272
 00:14:29,955 --> 00:14:32,948
@@ -1088,23 +1088,23 @@ dat opent de deur voor het verspreiden van Red
 
 273
 00:14:32,948 --> 00:14:36,582
-door de stekker overal waar we kunnen.
+door het overal waar we kunnen te gebruiken.
 
 274
 00:14:36,582 --> 00:14:39,954
-U kunt ook Red lanceren in een console-modus
+U kunt ook Red starten in een console-modus
 
 275
 00:14:39,954 --> 00:14:42,206
-dus we hebben een Red console.
+want we hebben een Red console.
 
 276
 00:14:42,206 --> 00:14:45,499
-Dus cross- compilatie... Red is nu in staat om cross - compileren
+Dus cross-compilatie... Red is nu in staat om cross-compileren
 
 277
 00:14:45,499 --> 00:14:49,442
-andere systemen van elk systeem naar het andere.
+naar andere systemen, van elk systeem naar het andere.
 
 278
 00:14:49,442 --> 00:14:52,731
@@ -1116,23 +1116,23 @@ waar Rebol loopt naar een ander platform.
 
 280
 00:14:56,113 --> 00:15:00,808
-Om te bereiken dat je niet een HOWTO nodig
+Om dat te doen heb je geen HOWTO nodig
 
 281
 00:15:00,808 --> 00:15:02,363
-U hoeft niet een tutorial.
+Ook geen tutorial.
 
 282
 00:15:02,363 --> 00:15:04,788
-U hoeft niet te zoeken op het net voor
+Niets op het internet te zoeken
 
 283
 00:15:04,788 --> 00:15:07,182
-hoe het te bereiken.
+hoe dit te doen.
 
 284
 00:15:07,182 --> 00:15:10,293
-U passeert gewoon een " - t" commando en de prisma ID
+Je geeft gewoon een "-t" commando en het gewenst doelplatform mee
 
 285
 00:15:10,293 --> 00:15:11,777
@@ -1140,19 +1140,19 @@ en dat is alles.
 
 286
 00:15:11,777 --> 00:15:16,750
-Een prisma ID is slechts een vermelding in een configuratiebestand
+Een doelplatform is slechts een vermelding in een configuratiebestand
 
 287
 00:15:16,750 --> 00:15:21,988
-Een eenvoudige Red dialect, waar we alleen een lijst van
+Een eenvoudig Red dialect, waar we alleen een lijst van
 
 288
 00:15:21,988 --> 00:15:26,132
-een aantal opties voor het doel platform.
+een aantal opties voor het doelplatform in hebben.
 
 289
 00:15:26,132 --> 00:15:31,110
-Dus op dit moment hebben we deze lijst van ongeveer 8 doelen
+Op dit moment hebben we op deze lijst ongeveer 8 doelen
 
 290
 00:15:31,110 --> 00:15:33,602
@@ -1164,11 +1164,11 @@ alle andere, zolang Rebol
 
 292
 00:15:35,828 --> 00:15:40,124
-draait op de source platform.
+draait op het source platform.
 
 293
 00:15:40,124 --> 00:15:41,557
-Dus zoals je kunt zien zijn we vooral ondersteunen
+Dus zoals je kunt zien ondersteunen we vooral
 
 294
 00:15:41,557 --> 00:15:45,594
@@ -1176,7 +1176,7 @@ x86-en ARM-gebaseerde platforms.
 
 295
 00:15:45,594 --> 00:15:49,412
-Om een ??beetje dieper in de toolchain krijgen
+Om een beetje dieper in de toolchain te kijken
 
 296
 00:15:49,412 --> 00:15:51,796
@@ -1184,11 +1184,11 @@ hebben we een aantal onderdelen.
 
 297
 00:15:51,796 --> 00:15:54,506
-We hebben de klassieke paar : compiler, linker.
+We hebben het klassieke paar: compiler, linker.
 
 298
 00:15:54,506 --> 00:16:01,832
-Dus de compiler laag is in staat om vooral richten
+De compiler laag is in staat om vooral te richten naar 
 
 299
 00:16:01,832 --> 00:16:07,115
@@ -1200,11 +1200,11 @@ Maar we zijn van plan om het uit te breiden ter ondersteuning ARMv7
 
 301
 00:16:11,919 --> 00:16:17,236
-" duim mode" en 64 - bits platforms.
+"duim mode" en 64-bits platforms.
 
 302
 00:16:17,236 --> 00:16:22,287
-We zullen ook de virtuele machine backends voegen.
+We zullen ook de virtuele machine backends toevoegen.
 
 303
 00:16:22,287 --> 00:16:26,207
@@ -1220,27 +1220,27 @@ En MSIL staat voor de naam bytecode
 
 306
 00:16:34,462 --> 00:16:37,043
-voor. NET platform.
+voor dotNET platform.
 
 307
 00:16:37,043 --> 00:16:39,737
-Dus de linker is de ondersteuning van de belangrijkste bestandsformaten.
+De linker is de ondersteuning voor de belangrijkste bestandsformaten.
 
 308
 00:16:39,737 --> 00:16:43,532
-We zullen het uit te breiden dat deze ook statische bibliotheken.
+We zullen het uitbreiden naar statische bibliotheken.
 
 309
 00:16:43,532 --> 00:16:46,418
-Dus je zult in staat zijn om een ??Red programma te compileren
+Dus je zult in staat zijn om een Red programma te compileren
 
 310
 00:16:46,418 --> 00:16:51,578
-als een statische bibliotheek, zodat u kunt deze later koppelen
+als een statische bibliotheek en deze later linken
 
 311
 00:16:51,578 --> 00:16:55,233
-met andere externe toolchain, als een C is.
+met andere externe toolchain, zoals bv een in C.
 
 312
 00:16:55,233 --> 00:16:59,655
@@ -1252,7 +1252,7 @@ en om mensen in staat te stellen Red gebruiken
 
 314
 00:17:02,448 --> 00:17:04,962
-in derden toolchain talen / appplications.
+in derde partij toolchain talen / applicaties.
 
 315
 00:17:04,962 --> 00:17:09,242
