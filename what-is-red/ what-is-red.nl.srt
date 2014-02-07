@@ -2868,11 +2868,11 @@ zodat iedereen het kan aan passen
 
 718
 00:42:18,986 --> 00:42:22,012
-en nieuwe functies toevoegen aan de compiler
+en nieuwe functies toe kan voegen aan de compiler
 
 719
 00:42:22,012 --> 00:42:25,657
-in een zeer afgelegen weg, en zeer gestructureerde manier.
+in een zeer geisoleerde manier, een zeer gestructureerde manier.
 
 720
 00:42:25,657 --> 00:42:29,935
@@ -2880,7 +2880,7 @@ Een dergelijke API kan ook worden opgeroepen tijdens de uitvoering.
 
 721
 00:42:29,935 --> 00:42:34,584
-Dus ik kan laat je je de opties en possibilites
+Dus ik laat je je de opties en mogelijkheden
 
 722
 00:42:34,584 --> 00:42:37,270
@@ -2896,7 +2896,7 @@ Dus het is mogelijk tijdens runtime
 
 725
 00:42:40,186 --> 00:42:43,657
-om de taal zelf te wijzigen of nieuwe functies toevoegen.
+om de taal zelf te wijzigen of nieuwe functies toe te voegen.
 
 726
 00:42:43,657 --> 00:42:47,107
@@ -2904,19 +2904,19 @@ Het klinkt misschien gestoord
 
 727
 00:42:47,107 --> 00:42:48,494
-maar het is iets andere talen
+maar het is iets dat andere talen
 
 728
 00:42:48,494 --> 00:42:53,525
-die op dit moment groeien
+op dit moment naar toe  
 
 729
 00:42:53,525 --> 00:42:56,184
-aan het doen zijn... bijvoorbeeld de Scala taal
+ontwikkelen... bijvoorbeeld de Scala taal
 
 730
 00:42:56,184 --> 00:42:57,921
-precies dat te doen.
+probeert precies dat te doen.
 
 731
 00:42:57,921 --> 00:43:00,094
@@ -2924,7 +2924,7 @@ En sommige mensen uit de Scala gemeenschap
 
 732
 00:43:00,094 --> 00:43:04,242
-zijn met behulp van dit soort functie om wonderen doen in Scala
+zijn met behulp van dit soort functie bezig om wonderen doen in Scala
 
 733
 00:43:04,242 --> 00:43:07,042
@@ -2936,11 +2936,11 @@ gebruikt deze API om parallelle ondersteuning voor loops toe te voegen
 
 735
 00:43:13,634 --> 00:43:18,648
-met behulp van de GPGPU voor parallelizing dat
+met behulp van de GPGPU voor parallelizering
 
 736
 00:43:18,648 --> 00:43:23,715
-met behulp van OpenCL als een low -level laag.
+met behulp van OpenCL als een low-level laag.
 
 737
 00:43:23,715 --> 00:43:27,094
@@ -2968,11 +2968,11 @@ Dus de implicatie is dat de huidige codebase
 
 743
 00:43:45,410 --> 00:43:50,145
-van de compiler... dus in de Red interne schema
+van de compiler... dus in het Red interne schema
 
 744
 00:43:50,145 --> 00:43:53,929
-was de rechterzijde van de blokken...
+was dat de rechterzijde van de blokken...
 
 745
 00:43:53,929 --> 00:43:56,942
@@ -2980,7 +2980,7 @@ De huidige codebase in Rebol 2
 
 746
 00:43:56,942 --> 00:44:00,594
-is een soort van wegwerp -code.
+is een soort van wegwerp-code.
 
 747
 00:44:00,594 --> 00:44:04,283
@@ -2988,23 +2988,23 @@ Dus vanaf het begin, schreef ik het erg snel
 
 748
 00:44:04,283 --> 00:44:08,540
-denken dat ik het snel zal dumpen
+denkend dat ik het snel zou dumpen
 
 749
 00:44:08,540 --> 00:44:10,412
-in ongeveer een jaar,
+binnen ongeveer een jaar,
 
 750
 00:44:10,412 --> 00:44:14,035
-en in staat zijn om snel te hercoderen in Red.
+en in staat zou zijn om het snel te hercoderen in Red.
 
 751
 00:44:14,035 --> 00:44:18,069
-Maar we veranderd een heleboel dingen in het project
+Maar we veranderden een heleboel dingen in het project
 
 752
 00:44:18,069 --> 00:44:22,374
-we aangepast aan de veranderende omgeving
+pasten ons aan aan de veranderende omgeving
 
 753
 00:44:22,374 --> 00:44:25,218
@@ -3024,7 +3024,7 @@ met de toolchain gehercodeerd in Red.
 
 757
 00:44:35,173 --> 00:44:41,975
-De hele Red runtime deel zal hetzelfde blijven
+Het hele Red runtime deel zal hetzelfde blijven
 
 758
 00:44:41,975 --> 00:44:43,714
@@ -3040,11 +3040,11 @@ Dus het enige deel dat zal worden gehercodeerd
 
 761
 00:44:50,087 --> 00:44:53,342
-zal de Rebol 2 codebase, die zijn
+zal de Rebol 2 codebase, die bestaat
 
 762
 00:44:53,342 --> 00:44:56,511
-in principe de Red en Red/System compilers
+in principe uit de Red en Red/System compilers
 
 763
 00:44:56,511 --> 00:44:59,654
@@ -3056,19 +3056,19 @@ we hebben twee medewerkers op GitHub
 
 765
 00:45:05,659 --> 00:45:10,028
-wat betekent dat er een admin en twee andere mensen
+wat betekent dat er een admin is en twee andere mensen zijn
 
 766
 00:45:10,028 --> 00:45:15,747
-die admin rechten. Dus als ik geraakt door een bus
+die admin rechten hebben. Dus als ik geraakt wordt door een bus
 
 767
 00:45:15,747 --> 00:45:21,832
-deze twee jongens konden over de broncode te nemen
+kunnen deze twee jongens de broncode overnemen
 
 768
 00:45:21,832 --> 00:45:26,973
-in de Red repository en te beheren.
+in de Red repository en deze beheren.
 
 769
 00:45:26,973 --> 00:45:30,940
@@ -3108,7 +3108,7 @@ want het is nogal een groot project...
 
 778
 00:45:54,940 --> 00:45:58,775
-en we hebben veel helpende handen.
+en we hebben veel helpende handen nodig.
 
 779
 00:46:00,945 --> 00:46:03,564
@@ -3124,11 +3124,11 @@ ongeveer 2 jaar en een half geleden...
 
 782
 00:46:12,146 --> 00:46:16,020
-elke laatste cent van de besparingen die ik had. :-)
+elke laatste cent van het saargeld dat ik had. :-)
 
 783
 00:46:16,020 --> 00:46:20,434
-Dus ik ben echt helemaal geloven in het project
+Dus ik ben echt helemaal gaan geloven in het project
 
 784
 00:46:20,434 --> 00:46:22,075
