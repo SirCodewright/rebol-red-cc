@@ -4,7 +4,7 @@ Onze volgende spreker is Nenad Rakocevic
 
 2
 00:00:14,410 --> 00:00:17,039
-die ons vertelt " Wat is Red "
+die presenteert "Wat is Red"
 
 3
 00:00:17,039 --> 00:00:22,496
@@ -2432,11 +2432,11 @@ dat is een hele prestatie, want
 
 609
 00:35:38,853 --> 00:35:42,243
-we geen symbolen in Red/System :-)
+we hebben geen symbolen in Red/System :-)
 
 610
 00:35:42,243 --> 00:35:47,656
-Dus het lijkt erop VID maar het gebruik van die functie
+Dus het lijkt op VID maar het gebruikt die functie
 
 611
 00:35:47,656 --> 00:35:50,854
@@ -2448,27 +2448,27 @@ We hebben ook een preprocessor in Red/System
 
 613
 00:35:55,630 --> 00:36:01,262
-maar ik zou willen laten vallen in de volgende grote release
+maar die wil ik laten vervallen in de volgende grote release
 
 614
 00:36:01,262 --> 00:36:06,590
-want we hebben meer problemen mee
+want we hebben er meer problemen mee
 
 615
 00:36:06,590 --> 00:36:11,779
-dan wij hebben voordelen.
+dan voordelen van.
 
 616
 00:36:11,779 --> 00:36:13,727
-Dus zullen we een paar van hen te houden
+Dus zullen we een paar van houden
 
 617
 00:36:13,727 --> 00:36:16,774
-maar we moeten het herdenken en het herontwerp.
+maar we moeten het heroverdenken en het herontwerpen.
 
 618
 00:36:16,774 --> 00:36:20,186
-De # define is een zeer krachtige optie
+De #define is een zeer krachtige optie
 
 619
 00:36:20,186 --> 00:36:22,128
@@ -2476,19 +2476,19 @@ want het geeft je bijna hetzelfde vermogen
 
 620
 00:36:22,128 --> 00:36:27,392
-als C macro's, dus u kunt zelfs gebruik maken van parameters.
+als C macro's, en je kunt zelfs gebruik maken van parameters.
 
 621
 00:36:27,392 --> 00:36:34,001
-We willen ook een aantal low- level CPU support hebben
+We willen ook deels low-level CPU support hebben
 
 622
 00:36:34,001 --> 00:36:39,385
-momenteel hebben we toegang tot een aantal CPU registers
+momenteel hebben we toegang tot enkele CPU registers
 
 623
 00:36:39,385 --> 00:36:41,747
-in een cross - platform weg.
+in een cross-platform manier.
 
 624
 00:36:41,747 --> 00:36:43,617
@@ -2496,15 +2496,15 @@ We hebben toegang tot de stapel -
 
 625
 00:36:43,617 --> 00:36:46,743
-u kunt de inheemse stack te manipuleren
+je kunt de native stack manipuleren
 
 626
 00:36:46,743 --> 00:36:49,724
-bij de Red/System niveau in een cross - platform weg.
+op Red/System niveau in een cross-platform manier.
 
 627
 00:36:49,724 --> 00:36:55,232
-En we zullen het toevoegen van ondersteuning voor onderbreking I / O's
+En we zullen ondersteuning voor interruptie I/O's  toevoegen
 
 628
 00:36:55,232 --> 00:37:02,004
@@ -2512,15 +2512,15 @@ en andere zeer fundamentele CPU features.
 
 629
 00:37:02,004 --> 00:37:07,289
-Misschien zullen we een aantal inline assembler ondersteuning toe te voegen
+Misschien zullen we een aantal inline assembler ondersteuning toevoegen
 
 630
 00:37:07,289 --> 00:37:10,224
-maar het is momenteel een grote behoefte.
+maar het is momenteel geen grote noodzaak.
 
 631
 00:37:10,224 --> 00:37:13,926
-Een paar statistieken over de Red project.
+Een paar statistieken over het Red project.
 
 632
 00:37:13,926 --> 00:37:18,596
@@ -2528,15 +2528,15 @@ Dus het is BSD, voor het grootste deel van de codebase.
 
 633
 00:37:18,596 --> 00:37:22,560
-En de runtime delen van Red zijn " BSL "
+En de runtime delen van Red zijn "BSL"
 
 634
 00:37:22,560 --> 00:37:25,945
-dat is de " Boost Software License"
+dat is de "Boost Software License"
 
 635
 00:37:25,945 --> 00:37:32,015
-dat is zelfs liberaler dan BSD.
+dat is zelfs vrijer dan BSD.
 
 636
 00:37:32,015 --> 00:37:34,999
@@ -2548,7 +2548,7 @@ We zijn op GitHub sinds het begin
 
 638
 00:37:37,856 --> 00:37:43,033
-hebben we 9 committers... Ik denk dat dat verkeerd
+hebben we 9 committers... Ik denk dat dat verkeerd is
 
 639
 00:37:43,033 --> 00:37:46,604
@@ -2560,7 +2560,7 @@ We hebben meer dan 2000 commits
 
 641
 00:37:50,335 --> 00:37:52,867
-zonder het tellen samenvoegen commits.
+zonder merge commits.
 
 642
 00:37:52,867 --> 00:37:58,035
@@ -2572,11 +2572,11 @@ maar ze zijn bijna allemaal gesloten
 
 644
 00:38:00,490 --> 00:38:03,576
-we proberen om hen gesloten zo snel mogelijk
+we proberen om hen zo snel mogelijk te sluiten
 
 645
 00:38:03,576 --> 00:38:05,852
-om te voorkomen stapelen ze op.
+om te voorkomen dat ze opstapelen.
 
 646
 00:38:05,852 --> 00:38:07,516
@@ -2584,15 +2584,15 @@ Want zodra ze zich opstapelen,
 
 647
 00:38:07,516 --> 00:38:10,788
-je bijna nooit krijgen ze verwerkt.
+krijg je ze bijna nooit meer verwerkt.
 
 648
 00:38:10,788 --> 00:38:14,469
-Dus we moeten echt zeer, zeer laag te houden dat.
+Dus we moeten dit echt zeer, zeer laag houden.
 
 649
 00:38:14,469 --> 00:38:16,696
-We hebben veel van de unit tests
+We hebben veel unit tests
 
 650
 00:38:16,696 --> 00:38:19,569
@@ -2600,7 +2600,7 @@ die worden gebouwd door Peter Wood
 
 651
 00:38:19,569 --> 00:38:23,180
-die grote werk op dat heeft gedaan.
+die geweldig werk op dat vlak heeft gedaan.
 
 652
 00:38:23,180 --> 00:38:25,361
@@ -2608,7 +2608,7 @@ Het is zeer, zeer behulpzaam.
 
 653
 00:38:25,361 --> 00:38:27,897
-En hier heb je een paar metrics
+En hier heb je een paar statistieken
 
 654
 00:38:27,897 --> 00:38:30,019
@@ -2616,7 +2616,7 @@ de grootte van de broncode
 
 655
 00:38:30,019 --> 00:38:32,026
-voor het Red en Red/System onderdelen.
+voor Red en Red/System onderdelen.
 
 656
 00:38:32,026 --> 00:38:34,073
@@ -2624,7 +2624,7 @@ Voor de compiler voor de linker.
 
 657
 00:38:34,073 --> 00:38:35,923
-Zodat u kunt zien voor jezelf
+Zodat je voor jezelf kunt zien
 
 658
 00:38:35,923 --> 00:38:37,897
@@ -2632,11 +2632,11 @@ dat is echt een kleine codebase.
 
 659
 00:38:37,897 --> 00:38:41,619
-Zo kunt u veel bereiken, dankzij Rebol :-)
+Je kunt veel bereiken, dankzij Rebol :-)
 
 660
 00:38:41,619 --> 00:38:45,444
-kun je veel bereiken met een kleine codebase
+je kunt veel bereiken met een kleine codebase
 
 661
 00:38:45,444 --> 00:38:47,680
@@ -2644,7 +2644,7 @@ en een paar regels code.
 
 662
 00:38:47,680 --> 00:38:50,946
-U kunt dat vergelijken met andere toolchains
+Je kunt dat vergelijken met andere toolchains
 
 663
 00:38:50,946 --> 00:38:55,006
@@ -2656,11 +2656,11 @@ ordes van grootte van verschil.
 
 665
 00:38:57,700 --> 00:38:59,251
-Natuurlijk zijn ze waarschijnlijk die
+Natuurlijk zijn er die
 
 666
 00:38:59,251 --> 00:39:01,428
-meer grond dan wij.
+meer gebieden bestrijken dan wij.
 
 667
 00:39:01,428 --> 00:39:06,544
@@ -2668,7 +2668,7 @@ Maar met zo'n kleine codebase
 
 668
 00:39:06,544 --> 00:39:09,376
-we zijn al die veel grond.
+bestijken wij al veel gebied.
 
 669
 00:39:09,376 --> 00:39:14,352
@@ -2680,11 +2680,11 @@ Het is nog steeds zwaar onder constructie.
 
 671
 00:39:18,824 --> 00:39:23,389
-Dus hebben we een aantal grote kern onderdelen ontbreken, nog steeds.
+En we missen een aantal grote kern onderdelen, nog steeds.
 
 672
 00:39:23,389 --> 00:39:30,653
-We hebben steun voorwerp, dat nog niet daar.
+We willen OBJECT!, dat er nog niet is.
 
 673
 00:39:30,653 --> 00:39:34,083
@@ -2692,7 +2692,7 @@ We hebben nog niet de juiste foutafhandeling
 
 674
 00:39:34,083 --> 00:39:36,009
-want we moeten OBJECT ! voor.
+want we hebben OBJECT! daarvoor nodig.
 
 675
 00:39:36,009 --> 00:39:40,244
@@ -2704,15 +2704,15 @@ in sommige delen van de compiler.
 
 677
 00:39:42,915 --> 00:39:45,487
-We hebben niet de I / O nog niet, maar...
+We hebben de I/O nog niet, maar...
 
 678
 00:39:45,487 --> 00:39:50,941
-natuurlijk objecten en I / O zijn zeer hoog op de lijst
+natuurlijk objecten en I/O zijn zeer hoog op de lijst
 
 679
 00:39:50,941 --> 00:39:54,697
-Ze waarschijnlijk zal worden uitgevoerd deze zomer.
+Ze waarschijnlijk deze zomer worden toegevoegd.
 
 680
 00:39:54,697 --> 00:39:59,696
@@ -2724,7 +2724,7 @@ in de 1.0, en wij natuurlijk ook willen
 
 682
 00:40:05,334 --> 00:40:09,829
-een modulaire samenstelling en module systeem.
+een modulaire compilatie en module systeem.
 
 683
 00:40:09,829 --> 00:40:14,260
@@ -2740,7 +2740,7 @@ plus een debugger... en wij zullen werken
 
 686
 00:40:23,468 --> 00:40:27,570
-te breiden dat in toekomstige versies.
+om dat uit te breiden in toekomstige versies.
 
 687
 00:40:27,570 --> 00:40:31,050
@@ -2748,7 +2748,7 @@ We willen ook de volledige documentatie
 
 688
 00:40:31,050 --> 00:40:37,597
-dus dat is een grote showstopper vrij te geven een 1,0
+dus dat is een grote showstopper om een 1.0 vrij te geven
 
 689
 00:40:37,597 --> 00:40:41,836
@@ -2764,7 +2764,7 @@ En natuurlijk moeten we een nieuwe website
 
 692
 00:40:46,529 --> 00:40:49,753
-voor de versie 1.0 te lanceren.
+voordat we de versie 1.0 lanceren.
 
 693
 00:40:51,613 --> 00:40:54,761
@@ -2772,7 +2772,7 @@ Maar dat is niet alles... :-)
 
 694
 00:40:54,761 --> 00:40:57,310
-dat is niet de echte Red.
+dat is nog niet de echte Red.
 
 695
 00:40:57,310 --> 00:41:00,523
@@ -2780,11 +2780,11 @@ De echte Red zal de 2.0 zijn.
 
 696
 00:41:00,523 --> 00:41:05,640
-En we hebben een vrij goede cast voor dat ( gelach )
+En we hebben gelukkig een vrij goede cast daarvoor ( gelach )
 
 697
 00:41:05,640 --> 00:41:07,538
-Dus wat is " The Real Red" ?
+Dus wat is "The Real Red" ?
 
 698
 00:41:07,538 --> 00:41:11,329
@@ -2792,19 +2792,19 @@ In feite, wat ik tot dusver heb gepresenteerd
 
 699
 00:41:11,329 --> 00:41:13,583
-is een soort van steigers.
+is een soort van steiger.
 
 700
 00:41:13,583 --> 00:41:15,570
-Omdat de echte Red is deze.
+Omdat de echte Red dit is.
 
 701
 00:41:15,570 --> 00:41:23,308
-De echte Red zal in principe een JIT- compiler
+De echte Red zal in principe een JIT-compiler zijn
 
 702
 00:41:23,308 --> 00:41:27,206
-die ook kunnen werken als een statische compiler.
+die ook kan werken als een statische compiler.
 
 703
 00:41:27,206 --> 00:41:29,613
@@ -2812,7 +2812,7 @@ De hele interne architectuur
 
 704
 00:41:29,613 --> 00:41:32,929
-totaal anders dan de huidige zal
+zal totaal anders dan de huidige zijn
 
 705
 00:41:32,929 --> 00:41:35,846
@@ -2828,11 +2828,11 @@ dus in principe de compiler en de toolchain
 
 708
 00:41:40,910 --> 00:41:44,718
-een kader - - zal een lege huls te zijn
+zal een lege huls te zijn -- een kader/framework -- 
 
 709
 00:41:44,718 --> 00:41:49,830
-waar u in staat om aan te sluiten in een aantal modules zal zijn
+waar je een aantal modules kunt aansluiten 
 
 710
 00:41:49,830 --> 00:41:54,223
@@ -2840,11 +2840,11 @@ om functies toe te voegen in elke fase van de compilatie.
 
 711
 00:41:54,223 --> 00:41:57,606
-Van de parsing het genereren van de bestanden.
+Van de parsing tot het genereren van de bestanden.
 
 712
 00:41:57,606 --> 00:42:00,981
-U krijgt een API om mee te werken.
+Je krijgt een API om mee te werken.
 
 713
 00:42:00,981 --> 00:42:03,679
@@ -2852,19 +2852,19 @@ Dus ik zal het kader bieden
 
 714
 00:42:03,679 --> 00:42:07,304
-en de minimale modules te laten werken
+en de minimale modules om het te laten werken
 
 715
 00:42:07,304 --> 00:42:10,946
-dezelfde kenmerken vertoont als de 1.0 hebben.
+om dezelfde kenmerken als de 1.0 te bieden.
 
 716
 00:42:10,946 --> 00:42:15,920
-En zo'n API zal uiteraard gedocumenteerd
+En zo'n API zal uiteraard gedocumenteerd worden
 
 717
 00:42:15,920 --> 00:42:18,986
-zodat iedereen in staat aan te passen zal zijn
+zodat iedereen het kan aan passen
 
 718
 00:42:18,986 --> 00:42:22,012
