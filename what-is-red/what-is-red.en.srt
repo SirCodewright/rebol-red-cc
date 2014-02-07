@@ -1252,7 +1252,7 @@ and to enable people to use Red
 
 314
 00:17:02,448 --> 00:17:04,962
-in third-party toolchain languages/appplications.
+in third-party toolchain languages/applications.
 
 315
 00:17:04,962 --> 00:17:09,242
@@ -1696,7 +1696,7 @@ if we can update them by copying
 
 425
 00:24:03,665 --> 00:24:06,840
-some other sucessful strategies.
+some other successful strategies.
 
 426
 00:24:06,840 --> 00:24:09,047
