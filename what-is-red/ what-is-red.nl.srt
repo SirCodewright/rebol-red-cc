@@ -1904,15 +1904,15 @@ Dus wat je ziet aan de rechterkant
 
 477
 00:27:10,782 --> 00:27:14,350
-is de Red/System uitgang voor die uitdrukking
+is de Red/System uitvoer voor die uitdrukking
 
 478
 00:27:14,350 --> 00:27:18,061
-het aanroepen van de Red runtime API.
+die de Red runtime API aanroept.
 
 479
 00:27:22,651 --> 00:27:28,334
-Een andere bijzondere aspect van de Red compiler
+Een andere bijzonder aspect van de Red compiler
 
 480
 00:27:28,334 --> 00:27:29,406
@@ -1920,11 +1920,11 @@ en Red taal
 
 481
 00:27:29,406 --> 00:27:34,169
-is dat het combineert verscheidene soorten benaderingen
+is dat het verscheidene soorten benaderingen combineert 
 
 482
 00:27:34,169 --> 00:27:37,846
-dat is iets wat vrij uniek, denk ik.
+dat is iets unieks, denk ik.
 
 483
 00:27:37,846 --> 00:27:41,156
@@ -1932,23 +1932,23 @@ Dus eigenlijk heb je een statische compiler.
 
 484
 00:27:41,156 --> 00:27:44,538
-Dat statische compiler code genereren
+Die statische compiler genereert code 
 
 485
 00:27:44,538 --> 00:27:46,584
-met een interpreter binnen, en morgen
+met een interpreter daarbinnen, en morgen
 
 486
 00:27:46,584 --> 00:27:51,606
-een JIT - compiler ingebed in uw executable.
+een JIT - compiler ingebed in je executable.
 
 487
 00:27:51,606 --> 00:27:58,368
-Al deze drie delen in staat om samen te werken zal zijn
+Al deze drie delen zullen kunnen samenwerken
 
 488
 00:27:58,368 --> 00:28:02,334
-in een zeer collaboratieve manier.
+op een zeer collaboratieve manier.
 
 489
 00:28:02,334 --> 00:28:05,191
@@ -1956,11 +1956,11 @@ Dus bijvoorbeeld, de gecompileerde code
 
 490
 00:28:05,191 --> 00:28:08,428
-kan de interne interpreter noemen
+kan de interne interpreter aanroepen
 
 491
 00:28:08,428 --> 00:28:12,551
-die zelf terug kunt bellen in de gecompileerde code.
+die zelf de gecompileerde code kan gebruiken.
 
 492
 00:28:12,551 --> 00:28:16,189
@@ -1968,11 +1968,11 @@ Hetzelfde geldt voor de JIT-compiler.
 
 493
 00:28:16,189 --> 00:28:19,973
-Het is een beetje abstract, maar ik kan laten zien aan het eind
+Het is een beetje abstract, maar ik kan het aan het eind  
 
 494
 00:28:19,973 --> 00:28:21,707
-van de presentatie een dia
+van de presentatie een dia laten zien
 
 495
 00:28:21,707 --> 00:28:23,904
@@ -1984,23 +1984,23 @@ Immers deze aanpak is een zeer krachtig instrument
 
 497
 00:28:28,901 --> 00:28:35,136
-tot zeer complexe semantische zaken op te lossen.
+om zeer complexe semantische zaken op te lossen.
 
 498
 00:28:35,136 --> 00:28:39,575
-Bijvoorbeeld, samenstellen symbolische code,
+Bijvoorbeeld, compileren van symbolische code,
 
 499
 00:28:39,575 --> 00:28:42,229
-dat is iets heel moeilijk te bereiken.
+dat is heel moeilijk te doen.
 
 500
 00:28:42,229 --> 00:28:43,740
-Maar als je verschillende benaderingen te combineren
+Maar als je verschillende benaderingen te combineert
 
 501
 00:28:43,740 --> 00:28:49,758
-kunt u een zeer efficiënte oplossing te vinden.
+kun je een zeer efficiënte oplossing vinden.
 
 502
 00:28:49,758 --> 00:28:54,407
@@ -2008,15 +2008,15 @@ Dus dit is gewoon een heel eenvoudig voorbeeld
 
 503
 00:28:54,407 --> 00:29:00,583
-hoe Red code ziet.
+hoe Red code er uit ziet.
 
 504
 00:29:00,583 --> 00:29:03,399
-U heeft hetzelfde principe als in Rebol
+Het heeft hetzelfde principe als in Rebol
 
 505
 00:29:03,399 --> 00:29:08,492
-dus je hebt een marker die [ Red]
+dus je hebt een marker [Red]
 
 506
 00:29:08,492 --> 00:29:13,355
@@ -2024,11 +2024,11 @@ gevolgd door een blok dat een header vormt
 
 507
 00:29:13,355 --> 00:29:17,254
-en uw code gaat na dat.
+en de code komt daarna.
 
 508
 00:29:17,254 --> 00:29:19,921
-Hallo wereld is gewoon [ print " Hello World " ]
+Hallo wereld is gewoon [print "Hallo wereld"]
 
 509
 00:29:19,921 --> 00:29:22,312
@@ -2036,11 +2036,11 @@ zoals in Rebol, en de rest van de code
 
 510
 00:29:22,312 --> 00:29:26,336
-waarschijnlijk lijkt heel erg op Rebol
+lijkt waarschijnlijk heel erg op Rebol
 
 511
 00:29:26,336 --> 00:29:32,270
-behalve misschien voor de [ return : [ type] ]
+behalve misschien voor de [return: [type!]]
 
 512
 00:29:32,270 --> 00:29:36,908
@@ -2048,23 +2048,23 @@ die optioneel is, maar het is het soort van
 
 513
 00:29:36,908 --> 00:29:40,409
-optioneel te typen Ik had het over net voor.
+optioneel typeren waar ik het net over had.
 
 514
 00:29:40,409 --> 00:29:43,389
-Dus heb je een voorbeeld zijn.
+Dus heb je een voorbeeld daar.
 
 515
 00:29:43,389 --> 00:29:48,196
-Het is niet verplicht om het te zetten, maar als je het
+Het is niet verplicht om het te zetten, maar als je het doet 
 
 516
 00:29:48,196 --> 00:29:54,758
-de compiler zal beter, sneller code te genereren.
+zal de compiler betere, snellere code genereren.
 
 517
 00:29:54,758 --> 00:29:59,006
-Dus gewoon een beetje meer gedetailleerde weergave
+Een beetje meer gedetailleerde weergave
 
 518
 00:29:59,006 --> 00:30:02,905
@@ -2080,7 +2080,7 @@ al die elementen zijn gerelateerd.
 
 521
 00:30:09,472 --> 00:30:13,971
-Dus als we uitgaan van de man op de juiste
+Dus als we uitgaan van deze hier rechts
 
 522
 00:30:13,971 --> 00:30:17,047
@@ -2096,11 +2096,11 @@ en daarachter hebben we de twee stapels
 
 525
 00:30:25,527 --> 00:30:28,351
-voor de twee samenstellers. Een Red, die
+voor de twee compilers. Een Red, die
 
 526
 00:30:28,351 --> 00:30:32,604
-korter omdat het gewoon uitzendt code voor Red/System.
+kleiner is omdat het gewoon code voor Red/System maakt.
 
 527
 00:30:32,604 --> 00:30:34,311
@@ -2108,11 +2108,11 @@ En een voor Red/System
 
 528
 00:30:34,311 --> 00:30:36,720
-die naar beneden gaat naar de verpakker
+die naar beneden gaat naar de packager
 
 529
 00:30:36,720 --> 00:30:41,424
-dus het kan uitzenden en produceren van binaire bestanden.
+dus het kan omzetten naar binaire bestanden.
 
 530
 00:30:41,424 --> 00:30:47,027
@@ -2124,7 +2124,7 @@ Aan de linkerkant heb je de Red runtime.
 
 532
 00:30:52,304 --> 00:30:55,586
-Dat is nogal een groot stuk van de code,
+Dat is nogal een groot stuk code,
 
 533
 00:30:55,586 --> 00:30:59,651
@@ -2132,11 +2132,11 @@ in feite waarschijnlijk groter dan de andere kant.
 
 534
 00:30:59,651 --> 00:31:02,964
-En die is geschreven in Red/System.
+En deze is geschreven in Red/System.
 
 535
 00:31:02,964 --> 00:31:06,914
-Dus je zult al de echte macht aan die kant vinden
+Dus je zult de echte rekenkracht aan die kant vinden
 
 536
 00:31:06,914 --> 00:31:08,649
@@ -2148,11 +2148,11 @@ alle natives (systeem-eigen functies), de mezzanine code,
 
 538
 00:31:12,104 --> 00:31:16,600
-de interpreter, de bruggen - net als de Java een
+de interpreter, de bruggen - zoals die voor Java
 
 539
 00:31:16,600 --> 00:31:19,025
-die is al beschikbaar.
+die al beschikbaar is.
 
 540
 00:31:19,025 --> 00:31:23,058
@@ -2164,11 +2164,11 @@ de onderliggende stukken.
 
 542
 00:31:26,485 --> 00:31:28,829
-Zodat je bijvoorbeeld de directe toegang hebben
+Zoals bijvoorbeeld de directe toegang tot
 
 543
 00:31:28,829 --> 00:31:31,993
-het besturingssysteem API maar ook de kernel.
+de besturingssysteem API maar ook de kernel.
 
 544
 00:31:31,993 --> 00:31:34,001
@@ -2176,15 +2176,15 @@ Op Linux kun je syscalls direct doen.
 
 545
 00:31:34,001 --> 00:31:38,340
-En indien nodig kunt u zelfs naar beneden gaan
+En indien nodig kun je zelfs naar beneden gaan
 
 546
 00:31:38,340 --> 00:31:41,869
-om de hardware en call zeer low-level functies.
+naar de hardware en zeer low-level functies aanroepen.
 
 547
 00:31:44,599 --> 00:31:46,625
-Misschien heb ik gewoon de Red Console miste ook
+Misschien heb ik de Red Console gemist
 
 548
 00:31:46,625 --> 00:31:49,985
@@ -2200,11 +2200,11 @@ Over Red/System... Ik heb een kleine presentatie
 
 551
 00:31:57,120 --> 00:32:01,142
-morgen specifiek op Red/System, omdat
+morgen specifiek over Red/System, omdat
 
 552
 00:32:01,142 --> 00:32:06,082
-het is een soort van een nieuw ding in Red vergelijking met Rebol.
+het is een soort van een nieuw ding in Red ter vergelijking met Rebol.
 
 553
 00:32:06,082 --> 00:32:08,541
@@ -2212,11 +2212,11 @@ Dus ik heb gewoon een slide over Red/System
 
 554
 00:32:08,541 --> 00:32:10,120
-u alleen een overzicht geven.
+alleen om een overzicht geven.
 
 555
 00:32:10,120 --> 00:32:16,748
-Dus eigenlijk is het gewoon een soort van C - level taal
+Dus eigenlijk is het gewoon een soort van C-level taal
 
 556
 00:32:16,748 --> 00:32:20,078
@@ -2224,7 +2224,7 @@ maar met een Red syntax.
 
 557
 00:32:20,078 --> 00:32:22,760
-Zodat het vaak voelt alsof codering in Red
+Zodat het vaak voelt alsof de codering in Red is
 
 558
 00:32:22,760 --> 00:32:29,827
@@ -2236,27 +2236,27 @@ Dus het is statisch gecompileerd.
 
 560
 00:32:32,630 --> 00:32:35,956
-Het is momenteel niet geoptimaliseerd helemaal. :-)
+Het is momenteel helemaal niet geoptimaliseerd. :-)
 
 561
 00:32:35,956 --> 00:32:40,988
-Maar het is slechts 4x langzamer dan geoptimaliseerde C
+Maar het is toch maar 4x langzamer dan geoptimaliseerde C
 
 562
 00:32:40,988 --> 00:32:43,849
-gecompileerd met " - O2 ".
+gecompileerd met "-O2".
 
 563
 00:32:43,849 --> 00:32:47,674
-Dus het is heel goed, eigenlijk is het heel goed.
+Dus het is aardig goed, eigenlijk is het heel erg goed.
 
 564
 00:32:47,674 --> 00:32:51,224
-Want zodra we voegen de optimalisatie lagen
+Want zodra we de optimalisatie lagen toevoegen 
 
 565
 00:32:51,224 --> 00:32:53,398
-We zullen zeer, zeer dicht bij C. zijn
+We zullen zeer, zeer dicht bij C komen
 
 566
 00:32:53,398 --> 00:32:57,362
@@ -2268,23 +2268,23 @@ Maar we zullen wel heel erg dichtbij.
 
 568
 00:33:00,014 --> 00:33:05,041
-Dus Red/System zal een werkelijk levensvatbaar alternatief voor C. zijn
+Dus Red/System zal een werkelijk levensvatbaar alternatief voor C zijn
 
 569
 00:33:05,041 --> 00:33:09,334
-En het doet wonderen in sommige doet al
+En het doet al wonderen in sommige
 
 570
 00:33:09,334 --> 00:33:11,936
-beeldverwerking voor bijvoorbeeld
+beeldverwerkingtoepassingen bijvoorbeeld
 
 571
 00:33:11,936 --> 00:33:15,680
-dat Bo ( Lechnowsky ) zal laten zien morgen.
+Bo ( Lechnowsky ) zal dat laten zien morgen.
 
 572
 00:33:15,680 --> 00:33:17,968
-Iets dat de taal C heeft geen
+Iets dat de taal C niet heeft 
 
 573
 00:33:17,968 --> 00:33:22,310
@@ -2296,31 +2296,31 @@ Red/System heeft namespaces,
 
 575
 00:33:24,792 --> 00:33:27,024
-die iets als contexten Rebol
+die vergelijkbaar zijn met contexten in Rebol
 
 576
 00:33:27,024 --> 00:33:33,586
-maar erg statisch, dus we zijn met behulp van de CONTEXT trefwoord
+maar erg statisch, dus we gebruiken het CONTEXT trefwoord
 
 577
 00:33:33,586 --> 00:33:35,909
-ze verklaren in Red/System ook.
+om ze ook te declareren in Red/System.
 
 578
 00:33:35,909 --> 00:33:38,936
-En u kunt ook de MET zoekwoord
+En je kunt ook het WITH keyword gebruiken
 
 579
 00:33:38,936 --> 00:33:43,428
-om een deel van uw code in een context te plaatsen
+om een deel van je code binnen een context te plaatsen
 
 580
 00:33:43,428 --> 00:33:47,121
-iets als verklaringen in andere talen.
+iets als declaraties in andere talen.
 
 581
 00:33:47,121 --> 00:33:52,155
-We hebben een zeer beperkte vorm systeem in Red/System
+We hebben een zeer beperkt type systeem in Red/System
 
 582
 00:33:52,155 --> 00:34:00,763
@@ -2328,7 +2328,7 @@ We hebben negen types.
 
 583
 00:34:00,763 --> 00:34:05,467
-Dus in principe dezelfde datatypes als C.
+In principe dezelfde datatypes als C.
 
 584
 00:34:05,467 --> 00:34:11,372
@@ -2336,19 +2336,19 @@ De functie datatype is niet een volledig eerste klas datatype
 
 585
 00:34:11,372 --> 00:34:16,155
-Ik heb veel over die aarzelde, omdat...
+Ik heb veel daarover getwijfeld, omdat...
 
 586
 00:34:16,155 --> 00:34:19,723
-als ik het een volledig eerste klas datatype
+als ik het een volledig eerste klas datatype zou maken
 
 587
 00:34:19,723 --> 00:34:22,571
-Mensen zullen gaan vragen voor mij
+De mensen mij zullen gaan vragen
 
 588
 00:34:22,571 --> 00:34:24,925
-Red/System een functionele taal te maken.
+om van Red/System een functionele taal te maken.
 
 589
 00:34:24,925 --> 00:34:27,986
@@ -2356,7 +2356,7 @@ Dat is mogelijk, maar het is niet het doel.
 
 590
 00:34:27,986 --> 00:34:32,540
-Het heeft geen doel dienen, dus ik ben heel terughoudend
+Het dient geen doel, dus ik ben heel terughoudend
 
 591
 00:34:32,540 --> 00:34:37,835
@@ -2368,15 +2368,15 @@ Wij hebben type inference,
 
 593
 00:34:40,324 --> 00:34:42,395
-dus je hoeft niet om het type gegevens opgeven
+dus je hoeft het type gegevens niet op te geven
 
 594
 00:34:42,395 --> 00:34:45,235
-voor lokale variabelen, zal de compiler het raden.
+voor lokale variabelen, de compiler zal het raden.
 
 595
 00:34:45,235 --> 00:34:48,666
-We hebben ook een beperkte vorm - casting
+We hebben ook een beperkte type-casting
 
 596
 00:34:48,666 --> 00:34:52,473
@@ -2384,15 +2384,15 @@ tussen compatibele gegevenstypen.
 
 597
 00:34:52,473 --> 00:34:56,548
-En we hebben iets C hoeft niet
+En we hebben iets dat C niet heeft
 
 598
 00:34:56,548 --> 00:35:04,017
-maar C++ heeft, dat is een zekere mate van reflectie.
+maar C++ wel heeft, dat is een zekere mate van reflectie.
 
 599
 00:35:04,017 --> 00:35:07,445
-Zo kunt u een functie in Red/System verklaren
+Zo kunt u een functie in Red/System declareren
 
 600
 00:35:07,445 --> 00:35:12,157
@@ -2400,15 +2400,15 @@ met een variabel aantal argumenten
 
 601
 00:35:12,157 --> 00:35:14,311
-kunt u haakjes om hen heen zetten
+Je kunt haakjes eromheen zetten
 
 602
 00:35:14,311 --> 00:35:16,341
-en in het lichaam van die functie
+en in de body van die functie
 
 603
 00:35:16,341 --> 00:35:19,854
-kunt u door de lijst met argumenten
+kun je door de lijst met argumenten lopen
 
 604
 00:35:19,854 --> 00:35:23,665
@@ -2420,11 +2420,11 @@ Dus dat is nogal een krachtige functie,
 
 606
 00:35:26,778 --> 00:35:32,499
-en eigenlijk Kaj de Vos gebruikte het om te bouwen
+en Kaj de Vos heeft het al gebruikt om 
 
 607
 00:35:32,499 --> 00:35:36,773
-een VID - achtige dialect in Red/System
+een VID - achtig dialect in Red/System te bouwen
 
 608
 00:35:36,773 --> 00:35:38,853
