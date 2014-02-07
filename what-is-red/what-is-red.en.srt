@@ -2880,7 +2880,7 @@ Such an API could also be called at runtime.
 
 721
 00:42:29,935 --> 00:42:34,584
-So I can let you imagine the options and possibilites
+So I can let you imagine the options and possibilities
 
 722
 00:42:34,584 --> 00:42:37,270
